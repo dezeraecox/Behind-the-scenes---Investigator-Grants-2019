@@ -476,10 +476,6 @@ name_summary['name'] = name_summary['CIA_name'].str.split(' ').str[1:].str.join(
 type_mapper = {'ECF': 1, 'CDF': 2, 'RF': 3, 'L': 3, 'EL2': 2, 'EL1': 1}
 name_summary['type_cat'] = name_summary['Type'].map(type_mapper)
 
-missing_df = name_summary[name_summary['Type'] == 'ECF']
-missing_df = missing_df[missing_df['Year'] != '2018']
-missing_df.to_csv(f'analysis_results/scival_test/missing_ECFs.csv')
-
 # Save all to excel
 data_frames = [awarded_summary, gender_summary, title_summary, title_proportions, research_summary, research_proportions, state_summary, institute_summary, kw_summary, name_summary]
 sheetnames= ['total_rates', 'per_gender', 'CIA_title', 'title_proportion_per_year', 'field_of_research', 'broad_research_proportions', 'state_summary', 'institute_summary', 'key_word_summary', 'name_summary']

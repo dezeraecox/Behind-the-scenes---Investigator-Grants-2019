@@ -1,0 +1,1415 @@
+,code,label,length,level,parent_field_code,parent_group_code
+0,01,MATHEMATICAL SCIENCES,2,1,01,
+1,02,PHYSICAL SCIENCES,2,1,02,
+2,03,CHEMICAL SCIENCES,2,1,03,
+3,04,EARTH SCIENCES,2,1,04,
+4,05,ENVIRONMENTAL SCIENCES,2,1,05,
+5,06,BIOLOGICAL SCIENCES,2,1,06,
+6,07,AGRICULTURAL AND VETERINARY SCIENCES,2,1,07,
+7,08,INFORMATION AND COMPUTING SCIENCES,2,1,08,
+8,09,ENGINEERING,2,1,09,
+9,10,TECHNOLOGY,2,1,10,
+10,11,MEDICAL AND HEALTH SCIENCES,2,1,11,
+11,12,BUILT ENVIRONMENT AND DESIGN,2,1,12,
+12,13,EDUCATION,2,1,13,
+13,14,ECONOMICS,2,1,14,
+14,15,"COMMERCE, MANAGEMENT, TOURISM AND SERVICES",2,1,15,
+15,16,STUDIES IN HUMAN SOCIETY,2,1,16,
+16,17,PSYCHOLOGY AND COGNITIVE SCIENCES,2,1,17,
+17,18,LAW AND LEGAL STUDIES,2,1,18,
+18,19,STUDIES IN CREATIVE ARTS AND WRITING,2,1,19,
+19,20,"LANGUAGE, COMMUNICATION AND CULTURE",2,1,20,
+20,21,HISTORY AND ARCHAEOLOGY,2,1,21,
+21,22,PHILOSOPHY AND RELIGIOUS STUDIES,2,1,22,
+22,0101,PURE MATHEMATICS,4,2,01,0101
+23,0102,APPLIED MATHEMATICS,4,2,01,0102
+24,0103,NUMERICAL AND COMPUTATIONAL MATHEMATICS,4,2,01,0103
+25,0104,STATISTICS,4,2,01,0104
+26,0105,MATHEMATICAL PHYSICS,4,2,01,0105
+27,0199,OTHER MATHEMATICAL SCIENCES,4,2,01,0199
+28,0201,ASTRONOMICAL AND SPACE SCIENCES,4,2,02,0201
+29,0202,"ATOMIC, MOLECULAR, NUCLEAR, PARTICLE AND PLASMA PHYSICS",4,2,02,0202
+30,0203,CLASSICAL PHYSICS,4,2,02,0203
+31,0204,CONDENSED MATTER PHYSICS,4,2,02,0204
+32,0205,OPTICAL PHYSICS,4,2,02,0205
+33,0206,QUANTUM PHYSICS,4,2,02,0206
+34,0299,OTHER PHYSICAL SCIENCES,4,2,02,0299
+35,0301,ANALYTICAL CHEMISTRY,4,2,03,0301
+36,0302,INORGANIC CHEMISTRY,4,2,03,0302
+37,0303,MACROMOLECULAR AND MATERIALS CHEMISTRY,4,2,03,0303
+38,0304,MEDICINAL AND BIOMOLECULAR CHEMISTRY,4,2,03,0304
+39,0305,ORGANIC CHEMISTRY,4,2,03,0305
+40,0306,PHYSICAL CHEMISTRY (INCL. STRUCTURAL),4,2,03,0306
+41,0307,THEORETICAL AND COMPUTATIONAL CHEMISTRY,4,2,03,0307
+42,0399,CHEMICAL SCIENCES NOT ELSEWHERE CLASSIFIED,4,2,03,0399
+43,0401,ATMOSPHERIC SCIENCES,4,2,04,0401
+44,0402,GEOCHEMISTRY,4,2,04,0402
+45,0403,GEOLOGY,4,2,04,0403
+46,0404,GEOPHYSICS,4,2,04,0404
+47,0405,OCEANOGRAPHY,4,2,04,0405
+48,0406,PHYSICAL GEOGRAPHY AND ENVIRONMENTAL GEOSCIENCE,4,2,04,0406
+49,0499,OTHER EARTH SCIENCES,4,2,04,0499
+50,0501,ECOLOGICAL APPLICATIONS,4,2,05,0501
+51,0502,ENVIRONMENTAL SCIENCE AND MANAGEMENT,4,2,05,0502
+52,0503,SOIL SCIENCES,4,2,05,0503
+53,0599,OTHER ENVIRONMENTAL SCIENCES,4,2,05,0599
+54,0601,BIOCHEMISTRY AND CELL BIOLOGY,4,2,06,0601
+55,0602,ECOLOGY,4,2,06,0602
+56,0603,EVOLUTIONARY BIOLOGY,4,2,06,0603
+57,0604,GENETICS,4,2,06,0604
+58,0605,MICROBIOLOGY,4,2,06,0605
+59,0606,PHYSIOLOGY,4,2,06,0606
+60,0607,PLANT BIOLOGY,4,2,06,0607
+61,0608,ZOOLOGY,4,2,06,0608
+62,0699,OTHER BIOLOGICAL SCIENCES,4,2,06,0699
+63,0701,"AGRICULTURE, LAND AND FARM MANAGEMENT",4,2,07,0701
+64,0702,ANIMAL PRODUCTION,4,2,07,0702
+65,0703,CROP AND PASTURE PRODUCTION,4,2,07,0703
+66,0704,FISHERIES SCIENCES,4,2,07,0704
+67,0705,FORESTRY SCIENCES,4,2,07,0705
+68,0706,HORTICULTURAL PRODUCTION,4,2,07,0706
+69,0707,VETERINARY SCIENCES,4,2,07,0707
+70,0799,OTHER AGRICULTURAL AND VETERINARY SCIENCES,4,2,07,0799
+71,0801,ARTIFICIAL INTELLIGENCE AND IMAGE PROCESSING,4,2,08,0801
+72,0802,COMPUTATION THEORY AND MATHEMATICS,4,2,08,0802
+73,0803,COMPUTER SOFTWARE,4,2,08,0803
+74,0804,DATA FORMAT,4,2,08,0804
+75,0805,DISTRIBUTED COMPUTING,4,2,08,0805
+76,0806,INFORMATION SYSTEMS,4,2,08,0806
+77,0807,LIBRARY AND INFORMATION STUDIES,4,2,08,0807
+78,0899,OTHER INFORMATION AND COMPUTING SCIENCES,4,2,08,0899
+79,0901,AEROSPACE ENGINEERING,4,2,09,0901
+80,0902,AUTOMOTIVE ENGINEERING,4,2,09,0902
+81,0903,BIOMEDICAL ENGINEERING,4,2,09,0903
+82,0904,CHEMICAL ENGINEERING,4,2,09,0904
+83,0905,CIVIL ENGINEERING,4,2,09,0905
+84,0906,ELECTRICAL AND ELECTRONIC ENGINEERING,4,2,09,0906
+85,0907,ENVIRONMENTAL ENGINEERING,4,2,09,0907
+86,0908,FOOD SCIENCES,4,2,09,0908
+87,0909,GEOMATIC ENGINEERING,4,2,09,0909
+88,0910,MANUFACTURING ENGINEERING,4,2,09,0910
+89,0911,MARITIME ENGINEERING,4,2,09,0911
+90,0912,MATERIALS ENGINEERING,4,2,09,0912
+91,0913,MECHANICAL ENGINEERING,4,2,09,0913
+92,0914,RESOURCES ENGINEERING AND EXTRACTIVE METALLURGY,4,2,09,0914
+93,0915,INTERDISCIPLINARY ENGINEERING,4,2,09,0915
+94,0999,OTHER ENGINEERING,4,2,09,0999
+95,1001,AGRICULTURAL BIOTECHNOLOGY,4,2,10,1001
+96,1002,ENVIRONMENTAL BIOTECHNOLOGY,4,2,10,1002
+97,1003,INDUSTRIAL BIOTECHNOLOGY,4,2,10,1003
+98,1004,MEDICAL BIOTECHNOLOGY,4,2,10,1004
+99,1005,COMMUNICATIONS TECHNOLOGIES,4,2,10,1005
+100,1006,COMPUTER HARDWARE,4,2,10,1006
+101,1007,NANOTECHNOLOGY,4,2,10,1007
+102,1099,OTHER TECHNOLOGY,4,2,10,1099
+103,1101,MEDICAL BIOCHEMISTRY AND METABOLOMICS,4,2,11,1101
+104,1102,CARDIOVASCULAR MEDICINE AND HAEMATOLOGY,4,2,11,1102
+105,1103,CLINICAL SCIENCES,4,2,11,1103
+106,1104,COMPLEMENTARY AND ALTERNATIVE MEDICINE,4,2,11,1104
+107,1105,DENTISTRY,4,2,11,1105
+108,1106,HUMAN MOVEMENT AND SPORTS SCIENCE,4,2,11,1106
+109,1107,IMMUNOLOGY,4,2,11,1107
+110,1108,MEDICAL MICROBIOLOGY,4,2,11,1108
+111,1109,NEUROSCIENCES,4,2,11,1109
+112,1110,NURSING,4,2,11,1110
+113,1111,NUTRITION AND DIETETICS,4,2,11,1111
+114,1112,ONCOLOGY AND CARCINOGENESIS,4,2,11,1112
+115,1113,OPHTHALMOLOGY AND OPTOMETRY,4,2,11,1113
+116,1114,PAEDIATRICS AND REPRODUCTIVE MEDICINE,4,2,11,1114
+117,1115,PHARMACOLOGY AND PHARMACEUTICAL SCIENCES,4,2,11,1115
+118,1116,MEDICAL PHYSIOLOGY,4,2,11,1116
+119,1117,PUBLIC HEALTH AND HEALTH SERVICES,4,2,11,1117
+120,1199,OTHER MEDICAL AND HEALTH SCIENCES,4,2,11,1199
+121,1201,ARCHITECTURE,4,2,12,1201
+122,1202,BUILDING,4,2,12,1202
+123,1203,DESIGN PRACTICE AND MANAGEMENT,4,2,12,1203
+124,1204,ENGINEERING DESIGN,4,2,12,1204
+125,1205,URBAN AND REGIONAL PLANNING,4,2,12,1205
+126,1299,OTHER BUILT ENVIRONMENT AND DESIGN,4,2,12,1299
+127,1301,EDUCATION SYSTEMS,4,2,13,1301
+128,1302,CURRICULUM AND PEDAGOGY,4,2,13,1302
+129,1303,SPECIALIST STUDIES IN EDUCATION,4,2,13,1303
+130,1399,OTHER EDUCATION,4,2,13,1399
+131,1401,ECONOMIC THEORY,4,2,14,1401
+132,1402,APPLIED ECONOMICS,4,2,14,1402
+133,1403,ECONOMETRICS,4,2,14,1403
+134,1499,OTHER ECONOMICS,4,2,14,1499
+135,1501,"ACCOUNTING, AUDITING AND ACCOUNTABILITY",4,2,15,1501
+136,1502,"BANKING, FINANCE AND INVESTMENT",4,2,15,1502
+137,1503,BUSINESS AND MANAGEMENT,4,2,15,1503
+138,1504,COMMERCIAL SERVICES,4,2,15,1504
+139,1505,MARKETING,4,2,15,1505
+140,1506,TOURISM,4,2,15,1506
+141,1507,TRANSPORTATION AND FREIGHT SERVICES,4,2,15,1507
+142,1599,"OTHER COMMERCE, MANAGEMENT, TOURISM AND SERVICES",4,2,15,1599
+143,1601,ANTHROPOLOGY,4,2,16,1601
+144,1602,CRIMINOLOGY,4,2,16,1602
+145,1603,DEMOGRAPHY,4,2,16,1603
+146,1604,HUMAN GEOGRAPHY,4,2,16,1604
+147,1605,POLICY AND ADMINISTRATION,4,2,16,1605
+148,1606,POLITICAL SCIENCE,4,2,16,1606
+149,1607,SOCIAL WORK,4,2,16,1607
+150,1608,SOCIOLOGY,4,2,16,1608
+151,1699,OTHER STUDIES IN HUMAN SOCIETY,4,2,16,1699
+152,1701,PSYCHOLOGY,4,2,17,1701
+153,1702,COGNITIVE SCIENCES,4,2,17,1702
+154,1799,OTHER PSYCHOLOGY AND COGNITIVE SCIENCES,4,2,17,1799
+155,1801,LAW,4,2,18,1801
+156,1802,MAORI LAW,4,2,18,1802
+157,1899,OTHER LAW AND LEGAL STUDIES,4,2,18,1899
+158,1901,ART THEORY AND CRITICISM,4,2,19,1901
+159,1902,"FILM, TELEVISION AND DIGITAL MEDIA",4,2,19,1902
+160,1903,JOURNALISM AND PROFESSIONAL WRITING,4,2,19,1903
+161,1904,PERFORMING ARTS AND CREATIVE WRITING,4,2,19,1904
+162,1905,VISUAL ARTS AND CRAFTS,4,2,19,1905
+163,1999,OTHER STUDIES IN CREATIVE ARTS AND WRITING,4,2,19,1999
+164,2001,COMMUNICATION AND MEDIA STUDIES,4,2,20,2001
+165,2002,CULTURAL STUDIES,4,2,20,2002
+166,2003,LANGUAGE STUDIES,4,2,20,2003
+167,2004,LINGUISTICS,4,2,20,2004
+168,2005,LITERARY STUDIES,4,2,20,2005
+169,2099,"OTHER LANGUAGE, COMMUNICATION AND CULTURE",4,2,20,2099
+170,2101,ARCHAEOLOGY,4,2,21,2101
+171,2102,CURATORIAL AND RELATED STUDIES,4,2,21,2102
+172,2103,HISTORICAL STUDIES,4,2,21,2103
+173,2199,OTHER HISTORY AND ARCHAEOLOGY,4,2,21,2199
+174,2201,APPLIED ETHICS,4,2,22,2201
+175,2202,HISTORY AND PHILOSOPHY OF SPECIFIC FIELDS,4,2,22,2202
+176,2203,PHILOSOPHY,4,2,22,2203
+177,2204,RELIGION AND RELIGIOUS STUDIES,4,2,22,2204
+178,2299,OTHER PHILOSOPHY AND RELIGIOUS STUDIES,4,2,22,2299
+179,010101,Algebra and Number Theory,5,3,01,0101
+180,010102,Algebraic and Differential Geometry,5,3,01,0101
+181,010103,"Category Theory, K Theory, Homological Algebra",5,3,01,0101
+182,010104,Combinatorics and Discrete Mathematics (excl. Physical Combinatorics),5,3,01,0101
+183,010105,Group Theory and Generalisations,5,3,01,0101
+184,010106,"Lie Groups, Harmonic and Fourier Analysis",5,3,01,0101
+185,010107,"Mathematical Logic, Set Theory, Lattices and Universal Algebra",5,3,01,0101
+186,010108,Operator Algebras and Functional Analysis,5,3,01,0101
+187,010109,"Ordinary Differential Equations, Difference Equations and Dynamical Systems",5,3,01,0101
+188,010110,Partial Differential Equations,5,3,01,0101
+189,010111,Real and Complex Functions (incl. Several Variables),5,3,01,0101
+190,010112,Topology,5,3,01,0101
+191,010199,Pure Mathematics not elsewhere classified,5,3,01,0101
+192,010201,Approximation Theory and Asymptotic Methods,5,3,01,0102
+193,010202,Biological Mathematics,5,3,01,0102
+194,010203,"Calculus of Variations, Systems Theory and Control Theory",5,3,01,0102
+195,010204,Dynamical Systems in Applications,5,3,01,0102
+196,010205,Financial Mathematics,5,3,01,0102
+197,010206,Operations Research,5,3,01,0102
+198,010207,Theoretical and Applied Mechanics,5,3,01,0102
+199,010299,Applied Mathematics not elsewhere classified,5,3,01,0102
+200,010301,Numerical Analysis,5,3,01,0103
+201,010302,Numerical Solution of Differential and Integral Equations,5,3,01,0103
+202,010303,Optimisation,5,3,01,0103
+203,010399,Numerical and Computational Mathematics not elsewhere classified,5,3,01,0103
+204,010401,Applied Statistics,5,3,01,0104
+205,010402,Biostatistics,5,3,01,0104
+206,010403,Forensic Statistics,5,3,01,0104
+207,010404,Probability Theory,5,3,01,0104
+208,010405,Statistical Theory,5,3,01,0104
+209,010406,Stochastic Analysis and Modelling,5,3,01,0104
+210,010499,Statistics not elsewhere classified,5,3,01,0104
+211,010501,Algebraic Structures in Mathematical Physics,5,3,01,0105
+212,010502,Integrable Systems (Classical and Quantum),5,3,01,0105
+213,010503,"Mathematical Aspects of Classical Mechanics, Quantum Mechanics and Quantum Information Theory",5,3,01,0105
+214,010504,Mathematical Aspects of General Relativity,5,3,01,0105
+215,010505,"Mathematical Aspects of Quantum and Conformal Field Theory, Quantum Gravity and String Theory",5,3,01,0105
+216,010506,"Statistical Mechanics, Physical Combinatorics and Mathematical Aspects of Condensed Matter",5,3,01,0105
+217,010599,Mathematical Physics not elsewhere classified,5,3,01,0105
+218,019999,Mathematical Sciences not elsewhere classified,5,3,01,0199
+219,020101,Astrobiology,5,3,02,0201
+220,020102,Astronomical and Space Instrumentation,5,3,02,0201
+221,020103,Cosmology and Extragalactic Astronomy,5,3,02,0201
+222,020104,Galactic Astronomy,5,3,02,0201
+223,020105,General Relativity and Gravitational Waves,5,3,02,0201
+224,020106,High Energy Astrophysics; Cosmic Rays,5,3,02,0201
+225,020107,"Mesospheric, Ionospheric and Magnetospheric Physics",5,3,02,0201
+226,020108,Planetary Science (excl. Extraterrestrial Geology),5,3,02,0201
+227,020109,Space and Solar Physics,5,3,02,0201
+228,020110,Stellar Astronomy and Planetary Systems,5,3,02,0201
+229,020199,Astronomical and Space Sciences not elsewhere classified,5,3,02,0201
+230,020201,Atomic and Molecular Physics,5,3,02,0202
+231,020202,Nuclear Physics,5,3,02,0202
+232,020203,Particle Physics,5,3,02,0202
+233,020204,Plasma Physics; Fusion Plasmas; Electrical Discharges,5,3,02,0202
+234,020299,"Atomic, Molecular, Nuclear, Particle and Plasma Physics not elsewhere classified",5,3,02,0202
+235,020301,Acoustics and Acoustical Devices; Waves,5,3,02,0203
+236,020302,Electrostatics and Electrodynamics,5,3,02,0203
+237,020303,Fluid Physics,5,3,02,0203
+238,020304,Thermodynamics and Statistical Physics,5,3,02,0203
+239,020399,Classical Physics not elsewhere classified,5,3,02,0203
+240,020401,Condensed Matter Characterisation Technique Development,5,3,02,0204
+241,020402,Condensed Matter Imaging,5,3,02,0204
+242,020403,Condensed Matter Modelling and Density Functional Theory,5,3,02,0204
+243,020404,Electronic and Magnetic Properties of Condensed Matter; Superconductivity,5,3,02,0204
+244,020405,Soft Condensed Matter,5,3,02,0204
+245,020406,Surfaces and Structural Properties of Condensed Matter,5,3,02,0204
+246,020499,Condensed Matter Physics not elsewhere classified,5,3,02,0204
+247,020501,Classical and Physical Optics,5,3,02,0205
+248,020502,Lasers and Quantum Electronics,5,3,02,0205
+249,020503,Nonlinear Optics and Spectroscopy,5,3,02,0205
+250,020504,"Photonics, Optoelectronics and Optical Communications",5,3,02,0205
+251,020599,Optical Physics not elsewhere classified,5,3,02,0205
+252,020601,Degenerate Quantum Gases and Atom Optics,5,3,02,0206
+253,020602,Field Theory and String Theory,5,3,02,0206
+254,020603,"Quantum Information, Computation and Communication",5,3,02,0206
+255,020604,Quantum Optics,5,3,02,0206
+256,020699,Quantum Physics not elsewhere classified,5,3,02,0206
+257,029901,Biological Physics,5,3,02,0299
+258,029902,Complex Physical Systems,5,3,02,0299
+259,029903,Medical Physics,5,3,02,0299
+260,029904,Synchrotrons; Accelerators; Instruments and Techniques,5,3,02,0299
+261,029999,Physical Sciences not elsewhere classified,5,3,02,0299
+262,030101,Analytical Spectrometry,5,3,03,0301
+263,030102,Electroanalytical Chemistry,5,3,03,0301
+264,030103,Flow Analysis,5,3,03,0301
+265,030104,Immunological and Bioassay Methods,5,3,03,0301
+266,030105,Instrumental Methods (excl. Immunological and Bioassay Methods),5,3,03,0301
+267,030106,"Quality Assurance, Chemometrics, Traceability and Metrological Chemistry",5,3,03,0301
+268,030107,Sensor Technology (Chemical aspects),5,3,03,0301
+269,030108,Separation Science,5,3,03,0301
+270,030199,Analytical Chemistry not elsewhere classified,5,3,03,0301
+271,030201,Bioinorganic Chemistry,5,3,03,0302
+272,030202,f-Block Chemistry,5,3,03,0302
+273,030203,Inorganic Green Chemistry,5,3,03,0302
+274,030204,Main Group Metal Chemistry,5,3,03,0302
+275,030205,Non-metal Chemistry,5,3,03,0302
+276,030206,Solid State Chemistry,5,3,03,0302
+277,030207,Transition Metal Chemistry,5,3,03,0302
+278,030299,Inorganic Chemistry not elsewhere classified ,5,3,03,0302
+279,030301,Chemical Characterisation of Materials,5,3,03,0303
+280,030302,Nanochemistry and Supramolecular Chemistry,5,3,03,0303
+281,030303,Optical Properties of Materials,5,3,03,0303
+282,030304,Physical Chemistry of Materials,5,3,03,0303
+283,030305,Polymerisation Mechanisms,5,3,03,0303
+284,030306,Synthesis of Materials,5,3,03,0303
+285,030307,Theory and Design of Materials,5,3,03,0303
+286,030399,Macromolecular and Materials Chemistry not elsewhere classified,5,3,03,0303
+287,030401,Biologically Active Molecules,5,3,03,0304
+288,030402,Biomolecular Modelling and Design,5,3,03,0304
+289,030403,Characterisation of Biological Macromolecules,5,3,03,0304
+290,030404,Cheminformatics and Quantitative Structure-Activity Relationships,5,3,03,0304
+291,030405,Molecular Medicine,5,3,03,0304
+292,030406,Proteins and Peptides,5,3,03,0304
+293,030499,Medicinal and Biomolecular Chemistry not elsewhere classified,5,3,03,0304
+294,030501,Free Radical Chemistry,5,3,03,0305
+295,030502,Natural Products Chemistry,5,3,03,0305
+296,030503,Organic Chemical Synthesis,5,3,03,0305
+297,030504,Organic Green Chemistry,5,3,03,0305
+298,030505,Physical Organic Chemistry,5,3,03,0305
+299,030599,Organic Chemistry not elsewhere classified,5,3,03,0305
+300,030601,Catalysis and Mechanisms of Reactions,5,3,03,0306
+301,030602,Chemical Thermodynamics and Energetics,5,3,03,0306
+302,030603,Colloid and Surface Chemistry,5,3,03,0306
+303,030604,Electrochemistry,5,3,03,0306
+304,030605,Solution Chemistry,5,3,03,0306
+305,030606,Structural Chemistry and Spectroscopy,5,3,03,0306
+306,030607,Transport Properties and Non-equilibrium Processes,5,3,03,0306
+307,030699,Physical Chemistry not elsewhere classified ,5,3,03,0306
+308,030701,Quantum Chemistry,5,3,03,0307
+309,030702,Radiation and Matter,5,3,03,0307
+310,030703,Reaction Kinetics and Dynamics,5,3,03,0307
+311,030704,Statistical Mechanics in Chemistry,5,3,03,0307
+312,030799,Theoretical and Computational Chemistry not elsewhere classified,5,3,03,0307
+313,039901,Environmental Chemistry (incl. Atmospheric Chemistry),5,3,03,0399
+314,039902,Forensic Chemistry,5,3,03,0399
+315,039903,Industrial Chemistry,5,3,03,0399
+316,039904,Organometallic Chemistry,5,3,03,0399
+317,039999,Chemical Sciences not elsewhere classified,5,3,03,0399
+318,040101,Atmospheric Aerosols,5,3,04,0401
+319,040102,Atmospheric Dynamics,5,3,04,0401
+320,040103,Atmospheric Radiation,5,3,04,0401
+321,040104,Climate Change Processes,5,3,04,0401
+322,040105,Climatology (excl. Climate Change Processes),5,3,04,0401
+323,040106,Cloud Physics,5,3,04,0401
+324,040107,Meteorology,5,3,04,0401
+325,040108,Tropospheric and Stratospheric Physics,5,3,04,0401
+326,040199,Atmospheric Sciences not elsewhere classified,5,3,04,0401
+327,040201,Exploration Geochemistry,5,3,04,0402
+328,040202,Inorganic Geochemistry,5,3,04,0402
+329,040203,Isotope Geochemistry,5,3,04,0402
+330,040204,Organic Geochemistry,5,3,04,0402
+331,040299,Geochemistry not elsewhere classified,5,3,04,0402
+332,040301,Basin Analysis,5,3,04,0403
+333,040302,Extraterrestrial Geology,5,3,04,0403
+334,040303,Geochronology,5,3,04,0403
+335,040304,Igneous and Metamorphic Petrology,5,3,04,0403
+336,040305,Marine Geoscience,5,3,04,0403
+337,040306,Mineralogy and Crystallography,5,3,04,0403
+338,040307,Ore Deposit Petrology,5,3,04,0403
+339,040308,Palaeontology (incl. Palynology),5,3,04,0403
+340,040309,Petroleum and Coal Geology,5,3,04,0403
+341,040310,Sedimentology,5,3,04,0403
+342,040311,Stratigraphy (incl. Biostratigraphy and Sequence Stratigraphy),5,3,04,0403
+343,040312,Structural Geology,5,3,04,0403
+344,040313,Tectonics,5,3,04,0403
+345,040314,Volcanology,5,3,04,0403
+346,040399,Geology not elsewhere classified ,5,3,04,0403
+347,040401,Electrical and Electromagnetic Methods in Geophysics,5,3,04,0404
+348,040402,Geodynamics,5,3,04,0404
+349,040403,Geophysical Fluid Dynamics,5,3,04,0404
+350,040404,Geothermics and Radiometrics,5,3,04,0404
+351,040405,Gravimetrics,5,3,04,0404
+352,040406,Magnetism and Palaeomagnetism,5,3,04,0404
+353,040407,Seismology and Seismic Exploration,5,3,04,0404
+354,040499,Geophysics not elsewhere classified ,5,3,04,0404
+355,040501,Biological Oceanography,5,3,04,0405
+356,040502,Chemical Oceanography,5,3,04,0405
+357,040503,Physical Oceanography,5,3,04,0405
+358,040599,Oceanography not elsewhere classified ,5,3,04,0405
+359,040601,Geomorphology and Regolith and Landscape Evolution,5,3,04,0406
+360,040602,Glaciology,5,3,04,0406
+361,040603,Hydrogeology,5,3,04,0406
+362,040604,Natural Hazards,5,3,04,0406
+363,040605,Palaeoclimatology,5,3,04,0406
+364,040606,Quaternary Environments,5,3,04,0406
+365,040607,Surface Processes,5,3,04,0406
+366,040608,Surfacewater Hydrology,5,3,04,0406
+367,040699,Physical Geography and Environmental Geoscience not elsewhere classified ,5,3,04,0406
+368,049999,Earth Sciences not elsewhere classified,5,3,04,0499
+369,050101,Ecological Impacts of Climate Change,5,3,05,0501
+370,050102,Ecosystem Function,5,3,05,0501
+371,050103,Invasive Species Ecology,5,3,05,0501
+372,050104,Landscape Ecology,5,3,05,0501
+373,050199,Ecological Applications not elsewhere classified,5,3,05,0501
+374,050201,Aboriginal and Torres Strait Islander Environmental Knowledge,5,3,05,0502
+375,050202,Conservation and Biodiversity,5,3,05,0502
+376,050203,Environmental Education and Extension,5,3,05,0502
+377,050204,Environmental Impact Assessment,5,3,05,0502
+378,050205,Environmental Management,5,3,05,0502
+379,050206,Environmental Monitoring,5,3,05,0502
+380,050207,Environmental Rehabilitation (excl. Bioremediation),5,3,05,0502
+381,050208,Maori Environmental Knowledge,5,3,05,0502
+382,050209,Natural Resource Management,5,3,05,0502
+383,050210,Pacific Peoples Environmental Knowledge,5,3,05,0502
+384,050211,Wildlife and Habitat Management,5,3,05,0502
+385,050299,Environmental Science and Management not elsewhere classified,5,3,05,0502
+386,050301,Carbon Sequestration Science,5,3,05,0503
+387,050302,Land Capability and Soil Degradation,5,3,05,0503
+388,050303,Soil Biology,5,3,05,0503
+389,050304,Soil Chemistry (excl. Carbon Sequestration Science),5,3,05,0503
+390,050305,Soil Physics,5,3,05,0503
+391,050399,Soil Sciences not elsewhere classified,5,3,05,0503
+392,059999,Environmental Sciences not elsewhere classified,5,3,05,0599
+393,060101,Analytical Biochemistry,5,3,06,0601
+394,060102,Bioinformatics,5,3,06,0601
+395,060103,"Cell Development, Proliferation and Death",5,3,06,0601
+396,060104,Cell Metabolism,5,3,06,0601
+397,060105,Cell Neurochemistry,5,3,06,0601
+398,060106,"Cellular Interactions (incl. Adhesion, Matrix, Cell Wall)",5,3,06,0601
+399,060107,Enzymes,5,3,06,0601
+400,060108,Protein Trafficking,5,3,06,0601
+401,060109,Proteomics and Intermolecular Interactions (excl. Medical Proteomics),5,3,06,0601
+402,060110,Receptors and Membrane Biology,5,3,06,0601
+403,060111,Signal Transduction,5,3,06,0601
+404,060112,Structural Biology (incl. Macromolecular Modelling),5,3,06,0601
+405,060113,Synthetic Biology,5,3,06,0601
+406,060114,Systems Biology,5,3,06,0601
+407,060199,Biochemistry and Cell Biology not elsewhere classified,5,3,06,0601
+408,060201,Behavioural Ecology,5,3,06,0602
+409,060202,Community Ecology (excl. Invasive Species Ecology),5,3,06,0602
+410,060203,Ecological Physiology,5,3,06,0602
+411,060204,Freshwater Ecology,5,3,06,0602
+412,060205,Marine and Estuarine Ecology (incl. Marine Ichthyology),5,3,06,0602
+413,060206,Palaeoecology,5,3,06,0602
+414,060207,Population Ecology,5,3,06,0602
+415,060208,Terrestrial Ecology,5,3,06,0602
+416,060299,Ecology not elsewhere classified,5,3,06,0602
+417,060301,Animal Systematics and Taxonomy,5,3,06,0603
+418,060302,Biogeography and Phylogeography,5,3,06,0603
+419,060303,Biological Adaptation,5,3,06,0603
+420,060304,Ethology and Sociobiology,5,3,06,0603
+421,060305,Evolution of Developmental Systems,5,3,06,0603
+422,060306,Evolutionary Impacts of Climate Change,5,3,06,0603
+423,060307,Host-Parasite Interactions,5,3,06,0603
+424,060308,Life Histories,5,3,06,0603
+425,060309,Phylogeny and Comparative Analysis,5,3,06,0603
+426,060310,Plant Systematics and Taxonomy,5,3,06,0603
+427,060311,Speciation and Extinction,5,3,06,0603
+428,060399,Evolutionary Biology not elsewhere classified,5,3,06,0603
+429,060401,Anthropological Genetics,5,3,06,0604
+430,060402,Cell and Nuclear Division,5,3,06,0604
+431,060403,Developmental Genetics (incl. Sex Determination),5,3,06,0604
+432,060404,Epigenetics (incl. Genome Methylation and Epigenomics),5,3,06,0604
+433,060405,Gene Expression (incl. Microarray and other genome-wide approaches),5,3,06,0604
+434,060406,Genetic Immunology,5,3,06,0604
+435,060407,Genome Structure and Regulation,5,3,06,0604
+436,060408,Genomics,5,3,06,0604
+437,060409,Molecular Evolution,5,3,06,0604
+438,060410,Neurogenetics,5,3,06,0604
+439,060411,"Population, Ecological and Evolutionary Genetics",5,3,06,0604
+440,060412,Quantitative Genetics (incl. Disease and Trait Mapping Genetics),5,3,06,0604
+441,060499,Genetics not elsewhere classified,5,3,06,0604
+442,060501,Bacteriology,5,3,06,0605
+443,060502,Infectious Agents,5,3,06,0605
+444,060503,Microbial Genetics,5,3,06,0605
+445,060504,Microbial Ecology,5,3,06,0605
+446,060505,Mycology,5,3,06,0605
+447,060506,Virology,5,3,06,0605
+448,060599,Microbiology not elsewhere classified,5,3,06,0605
+449,060601,Animal Physiology - Biophysics,5,3,06,0606
+450,060602,Animal Physiology - Cell,5,3,06,0606
+451,060603,Animal Physiology - Systems,5,3,06,0606
+452,060604,Comparative Physiology,5,3,06,0606
+453,060699,Physiology not elsewhere classified,5,3,06,0606
+454,060701,Phycology (incl. Marine Grasses),5,3,06,0607
+455,060702,Plant Cell and Molecular Biology,5,3,06,0607
+456,060703,Plant Developmental and Reproductive Biology,5,3,06,0607
+457,060704,Plant Pathology,5,3,06,0607
+458,060705,Plant Physiology,5,3,06,0607
+459,060799,Plant Biology not elsewhere classified,5,3,06,0607
+460,060801,Animal Behaviour,5,3,06,0608
+461,060802,Animal Cell and Molecular Biology,5,3,06,0608
+462,060803,Animal Developmental and Reproductive Biology,5,3,06,0608
+463,060804,Animal Immunology,5,3,06,0608
+464,060805,Animal Neurobiology,5,3,06,0608
+465,060806,Animal Physiological Ecology,5,3,06,0608
+466,060807,Animal Structure and Function,5,3,06,0608
+467,060808,Invertebrate Biology,5,3,06,0608
+468,060809,Vertebrate Biology,5,3,06,0608
+469,060899,Zoology not elsewhere classified,5,3,06,0608
+470,069901,Forensic Biology,5,3,06,0699
+471,069902,Global Change Biology,5,3,06,0699
+472,069999,Biological Sciences not elsewhere classified,5,3,06,0699
+473,070101,Agricultural Land Management,5,3,07,0701
+474,070102,Agricultural Land Planning,5,3,07,0701
+475,070103,Agricultural Production Systems Simulation,5,3,07,0701
+476,070104,Agricultural Spatial Analysis and Modelling,5,3,07,0701
+477,070105,Agricultural Systems Analysis and Modelling,5,3,07,0701
+478,070106,"Farm Management, Rural Management and Agribusiness",5,3,07,0701
+479,070107,Farming Systems Research,5,3,07,0701
+480,070108,Sustainable Agricultural Development,5,3,07,0701
+481,070199,"Agriculture, Land and Farm Management not elsewhere classified",5,3,07,0701
+482,070201,Animal Breeding,5,3,07,0702
+483,070202,Animal Growth and Development,5,3,07,0702
+484,070203,Animal Management,5,3,07,0702
+485,070204,Animal Nutrition,5,3,07,0702
+486,070205,Animal Protection (Pests and Pathogens),5,3,07,0702
+487,070206,Animal Reproduction,5,3,07,0702
+488,070207,Humane Animal Treatment,5,3,07,0702
+489,070299,Animal Production not elsewhere classified,5,3,07,0702
+490,070301,Agro-ecosystem Function and Prediction,5,3,07,0703
+491,070302,Agronomy,5,3,07,0703
+492,070303,Crop and Pasture Biochemistry and Physiology,5,3,07,0703
+493,070304,Crop and Pasture Biomass and Bioproducts,5,3,07,0703
+494,070305,Crop and Pasture Improvement (Selection and Breeding),5,3,07,0703
+495,070306,Crop and Pasture Nutrition,5,3,07,0703
+496,070307,Crop and Pasture Post Harvest Technologies (incl. Transportation and Storage),5,3,07,0703
+497,070308,"Crop and Pasture Protection (Pests, Diseases and Weeds) 070399 Crop and Pasture Production not elsewhere classified",5,3,07,0703
+498,070401,Aquaculture,5,3,07,0704
+499,070402,Aquatic Ecosystem Studies and Stock Assessment,5,3,07,0704
+500,070403,Fisheries Management,5,3,07,0704
+501,070404,Fish Pests and Diseases,5,3,07,0704
+502,070405,Fish Physiology and Genetics,5,3,07,0704
+503,070406,Post-Harvest Fisheries Technologies (incl. Transportation),5,3,07,0704
+504,070499,Fisheries Sciences not elsewhere classified,5,3,07,0704
+505,070501,Agroforestry,5,3,07,0705
+506,070502,Forestry Biomass and Bioproducts,5,3,07,0705
+507,070503,Forestry Fire Management,5,3,07,0705
+508,070504,Forestry Management and Environment,5,3,07,0705
+509,070505,"Forestry Pests, Health and Diseases",5,3,07,0705
+510,070506,Forestry Product Quality Assessment,5,3,07,0705
+511,070507,Tree Improvement (Selection and Breeding),5,3,07,0705
+512,070508,Tree Nutrition and Physiology,5,3,07,0705
+513,070509,Wood Fibre Processing,5,3,07,0705
+514,070510,Wood Processing,5,3,07,0705
+515,070599,Forestry Sciences not elsewhere classified,5,3,07,0705
+516,070601,Horticultural Crop Growth and Development,5,3,07,0706
+517,070602,Horticultural Crop Improvement (Selection and Breeding),5,3,07,0706
+518,070603,"Horticultural Crop Protection (Pests, Diseases and Weeds) 070604 Oenology and Viticulture",5,3,07,0706
+519,070605,Post Harvest Horticultural Technologies (incl. Transportation and Storage),5,3,07,0706
+520,070699,Horticultural Production not elsewhere classified,5,3,07,0706
+521,070701,Veterinary Anaesthesiology and Intensive Care,5,3,07,0707
+522,070702,Veterinary Anatomy and Physiology,5,3,07,0707
+523,070703,Veterinary Diagnosis and Diagnostics,5,3,07,0707
+524,070704,Veterinary Epidemiology,5,3,07,0707
+525,070705,Veterinary Immunology,5,3,07,0707
+526,070706,Veterinary Medicine,5,3,07,0707
+527,070707,Veterinary Microbiology (excl. Virology),5,3,07,0707
+528,070708,Veterinary Parasitology,5,3,07,0707
+529,070709,Veterinary Pathology,5,3,07,0707
+530,070710,Veterinary Pharmacology,5,3,07,0707
+531,070711,Veterinary Surgery,5,3,07,0707
+532,070712,Veterinary Virology,5,3,07,0707
+533,070799,Veterinary Sciences not elsewhere classified,5,3,07,0707
+534,079901,"Agricultural Hydrology (Drainage, Flooding, Irrigation, Quality, etc.)",5,3,07,0799
+535,079902,Fertilisers and Agrochemicals (incl. Application),5,3,07,0799
+536,079999,Agricultural and Veterinary Sciences not elsewhere classified,5,3,07,0799
+537,080101,Adaptive Agents and Intelligent Robotics,5,3,08,0801
+538,080102,Artificial Life,5,3,08,0801
+539,080103,Computer Graphics,5,3,08,0801
+540,080104,Computer Vision,5,3,08,0801
+541,080105,Expert Systems,5,3,08,0801
+542,080106,Image Processing,5,3,08,0801
+543,080107,Natural Language Processing,5,3,08,0801
+544,080108,"Neural, Evolutionary and Fuzzy Computation",5,3,08,0801
+545,080109,Pattern Recognition and Data Mining,5,3,08,0801
+546,080110,Simulation and Modelling,5,3,08,0801
+547,080111,Virtual Reality and Related Simulation,5,3,08,0801
+548,080199,Artificial Intelligence and Image Processing not elsewhere classified,5,3,08,0801
+549,080201,Analysis of Algorithms and Complexity,5,3,08,0802
+550,080202,Applied Discrete Mathematics,5,3,08,0802
+551,080203,Computational Logic and Formal Languages,5,3,08,0802
+552,080204,Mathematical Software,5,3,08,0802
+553,080205,Numerical Computation,5,3,08,0802
+554,080299,Computation Theory and Mathematics not elsewhere classified,5,3,08,0802
+555,080301,Bioinformatics Software,5,3,08,0803
+556,080302,Computer System Architecture,5,3,08,0803
+557,080303,Computer System Security,5,3,08,0803
+558,080304,Concurrent Programming,5,3,08,0803
+559,080305,Multimedia Programming,5,3,08,0803
+560,080306,Open Software,5,3,08,0803
+561,080307,Operating Systems,5,3,08,0803
+562,080308,Programming Languages,5,3,08,0803
+563,080309,Software Engineering,5,3,08,0803
+564,080399,Computer Software not elsewhere classified,5,3,08,0803
+565,080401,Coding and Information Theory,5,3,08,0804
+566,080402,Data Encryption,5,3,08,0804
+567,080403,Data Structures,5,3,08,0804
+568,080404,Markup Languages,5,3,08,0804
+569,080499,Data Format not elsewhere classified,5,3,08,0804
+570,080501,Distributed and Grid Systems,5,3,08,0805
+571,080502,Mobile Technologies,5,3,08,0805
+572,080503,Networking and Communications,5,3,08,0805
+573,080504,Ubiquitous Computing,5,3,08,0805
+574,080505,Web Technologies (excl. Web Search),5,3,08,0805
+575,080599,Distributed Computing not elsewhere classified,5,3,08,0805
+576,080601,Aboriginal and Torres Strait Islander Information and Knowledge Systems,5,3,08,0806
+577,080602,Computer-Human Interaction,5,3,08,0806
+578,080603,Conceptual Modelling,5,3,08,0806
+579,080604,Database Management,5,3,08,0806
+580,080605,Decision Support and Group Support Systems,5,3,08,0806
+581,080606,Global Information Systems,5,3,08,0806
+582,080607,Information Engineering and Theory,5,3,08,0806
+583,080608,Information Systems Development Methodologies,5,3,08,0806
+584,080609,Information Systems Management,5,3,08,0806
+585,080610,Information Systems Organisation,5,3,08,0806
+586,080611,Information Systems Theory,5,3,08,0806
+587,080612,Interorganisational Information Systems and Web Services,5,3,08,0806
+588,080613,Maori Information and Knowledge Systems,5,3,08,0806
+589,080614,Pacific Peoples Information and Knowledge Systems,5,3,08,0806
+590,080699,Information Systems not elsewhere classified,5,3,08,0806
+591,080701,Aboriginal and Torres Strait Islander Knowledge Management,5,3,08,0807
+592,080702,Health Informatics,5,3,08,0807
+593,080703,Human Information Behaviour,5,3,08,0807
+594,080704,Information Retrieval and Web Search,5,3,08,0807
+595,080705,Informetrics,5,3,08,0807
+596,080706,Librarianship,5,3,08,0807
+597,080707,Organisation of Information and Knowledge Resources,5,3,08,0807
+598,080708,Records and Information Management (excl. Business Records and Information Management),5,3,08,0807
+599,080709,Social and Community Informatics,5,3,08,0807
+600,080799,Library and Information Studies not elsewhere classified,5,3,08,0807
+601,089999,Information and Computing Sciences not elsewhere classified,5,3,08,0899
+602,090101,Aerodynamics (excl. Hypersonic Aerodynamics),5,3,09,0901
+603,090102,Aerospace Materials,5,3,09,0901
+604,090103,Aerospace Structures,5,3,09,0901
+605,090104,Aircraft Performance and Flight Control Systems,5,3,09,0901
+606,090105,Avionics,5,3,09,0901
+607,090106,Flight Dynamics,5,3,09,0901
+608,090107,Hypersonic Propulsion and Hypersonic Aerodynamics,5,3,09,0901
+609,090108,"Satellite, Space Vehicle and Missile Design and Testing",5,3,09,0901
+610,090199,Aerospace Engineering not elsewhere classified,5,3,09,0901
+611,090201,Automotive Combustion and Fuel Engineering (incl. Alternative/Renewable Fuels),5,3,09,0902
+612,090202,Automotive Engineering Materials,5,3,09,0902
+613,090203,Automotive Mechatronics,5,3,09,0902
+614,090204,Automotive Safety Engineering,5,3,09,0902
+615,090205,Hybrid Vehicles and Powertrains,5,3,09,0902
+616,090299,Automotive Engineering not elsewhere classified,5,3,09,0902
+617,090301,Biomaterials,5,3,09,0903
+618,090302,Biomechanical Engineering,5,3,09,0903
+619,090303,Biomedical Instrumentation,5,3,09,0903
+620,090304,Medical Devices,5,3,09,0903
+621,090305,Rehabilitation Engineering,5,3,09,0903
+622,090399,Biomedical Engineering not elsewhere classified,5,3,09,0903
+623,090401,Carbon Capture Engineering (excl. Sequestration),5,3,09,0904
+624,090402,Catalytic Process Engineering,5,3,09,0904
+625,090403,Chemical Engineering Design,5,3,09,0904
+626,090404,Membrane and Separation Technologies,5,3,09,0904
+627,090405,Non-automotive Combustion and Fuel Engineering (incl. Alternative/Renewable Fuels),5,3,09,0904
+628,090406,Powder and Particle Technology,5,3,09,0904
+629,090407,Process Control and Simulation,5,3,09,0904
+630,090408,Rheology,5,3,09,0904
+631,090409,Wastewater Treatment Processes,5,3,09,0904
+632,9041,Water Treatment Processes,4,2,90,9041
+633,090499,Chemical Engineering not elsewhere classified,5,3,09,0904
+634,090501,Civil Geotechnical Engineering,5,3,09,0905
+635,090502,Construction Engineering,5,3,09,0905
+636,090503,Construction Materials,5,3,09,0905
+637,090504,Earthquake Engineering,5,3,09,0905
+638,090505,Infrastructure Engineering and Asset Management,5,3,09,0905
+639,090506,Structural Engineering,5,3,09,0905
+640,090507,Transport Engineering,5,3,09,0905
+641,090508,Water Quality Engineering,5,3,09,0905
+642,090509,Water Resources Engineering,5,3,09,0905
+643,090599,Civil Engineering not elsewhere classified,5,3,09,0905
+644,090601,Circuits and Systems,5,3,09,0906
+645,090602,"Control Systems, Robotics and Automation",5,3,09,0906
+646,090603,Industrial Electronics,5,3,09,0906
+647,090604,Microelectronics and Integrated Circuits,5,3,09,0906
+648,090605,"Photodetectors, Optical Sensors and Solar Cells",5,3,09,0906
+649,090606,Photonics and Electro-Optical Engineering (excl. Communications),5,3,09,0906
+650,090607,Power and Energy Systems Engineering (excl. Renewable Power),5,3,09,0906
+651,090608,Renewable Power and Energy Systems Engineering (excl. Solar Cells),5,3,09,0906
+652,090609,Signal Processing,5,3,09,0906
+653,090699,Electrical and Electronic Engineering not elsewhere classified,5,3,09,0906
+654,090701,Environmental Engineering Design,5,3,09,0907
+655,090702,Environmental Engineering Modelling,5,3,09,0907
+656,090703,Environmental Technologies,5,3,09,0907
+657,090799,Environmental Engineering not elsewhere classified,5,3,09,0907
+658,090801,Food Chemistry and Molecular Gastronomy (excl. Wine),5,3,09,0908
+659,090802,Food Engineering,5,3,09,0908
+660,090803,Food Nutritional Balance,5,3,09,0908
+661,090804,"Food Packaging, Preservation and Safety",5,3,09,0908
+662,090805,Food Processing,5,3,09,0908
+663,090806,Wine Chemistry and Wine Sensory Science,5,3,09,0908
+664,090899,Food Sciences not elsewhere classified,5,3,09,0908
+665,090901,Cartography,5,3,09,0909
+666,090902,Geodesy,5,3,09,0909
+667,090903,Geospatial Information Systems,5,3,09,0909
+668,090904,Navigation and Position Fixing,5,3,09,0909
+669,090905,Photogrammetry and Remote Sensing,5,3,09,0909
+670,090906,Surveying (incl. Hydrographic Surveying),5,3,09,0909
+671,090999,Geomatic Engineering not elsewhere classified,5,3,09,0909
+672,091001,CAD/CAM Systems,5,3,09,0910
+673,091002,Flexible Manufacturing Systems,5,3,09,0910
+674,091003,Machine Tools,5,3,09,0910
+675,091004,Machining,5,3,09,0910
+676,091005,Manufacturing Management,5,3,09,0910
+677,091006,Manufacturing Processes and Technologies (excl. Textiles),5,3,09,0910
+678,091007,Manufacturing Robotics and Mechatronics (excl. Automotive Mechatronics),5,3,09,0910
+679,091008,Manufacturing Safety and Quality,5,3,09,0910
+680,091009,Microtechnology,5,3,09,0910
+681,091010,"Packaging, Storage and Transportation (excl. Food and Agricultural Products)",5,3,09,0910
+682,091011,Precision Engineering,5,3,09,0910
+683,091012,Textile Technology,5,3,09,0910
+684,091099,Manufacturing Engineering not elsewhere classified,5,3,09,0910
+685,091101,Marine Engineering,5,3,09,0911
+686,091102,Naval Architecture,5,3,09,0911
+687,091103,Ocean Engineering,5,3,09,0911
+688,091104,Ship and Platform Hydrodynamics,5,3,09,0911
+689,091105,Ship and Platform Structures,5,3,09,0911
+690,091106,Special Vehicles,5,3,09,0911
+691,091199,Maritime Engineering not elsewhere classified,5,3,09,0911
+692,091201,Ceramics,5,3,09,0912
+693,091202,Composite and Hybrid Materials,5,3,09,0912
+694,091203,Compound Semiconductors,5,3,09,0912
+695,091204,Elemental Semiconductors,5,3,09,0912
+696,091205,Functional Materials,5,3,09,0912
+697,091206,Glass,5,3,09,0912
+698,091207,Metals and Alloy Materials,5,3,09,0912
+699,091208,Organic Semiconductors,5,3,09,0912
+700,091209,Polymers and Plastics,5,3,09,0912
+701,091210,"Timber, Pulp and Paper",5,3,09,0912
+702,091299,Materials Engineering not elsewhere classified,5,3,09,0912
+703,091301,Acoustics and Noise Control (excl. Architectural Acoustics),5,3,09,0913
+704,091302,Automation and Control Engineering,5,3,09,0913
+705,091303,Autonomous Vehicles,5,3,09,0913
+706,091304,"Dynamics, Vibration and Vibration Control",5,3,09,0913
+707,091305,"Energy Generation, Conversion and Storage Engineering",5,3,09,0913
+708,091306,Microelectromechanical Systems (MEMS),5,3,09,0913
+709,091307,Numerical Modelling and Mechanical Characterisation,5,3,09,0913
+710,091308,Solid Mechanics,5,3,09,0913
+711,091309,Tribology,5,3,09,0913
+712,091399,Mechanical Engineering not elsewhere classified,5,3,09,0913
+713,091401,Electrometallurgy,5,3,09,0914
+714,091402,Geomechanics and Resources Geotechnical Engineering,5,3,09,0914
+715,091403,Hydrometallurgy,5,3,09,0914
+716,091404,Mineral Processing/Beneficiation,5,3,09,0914
+717,091405,Mining Engineering,5,3,09,0914
+718,091406,Petroleum and Reservoir Engineering,5,3,09,0914
+719,091407,Pyrometallurgy,5,3,09,0914
+720,091499,Resources Engineering and Extractive Metallurgy not elsewhere classified,5,3,09,0914
+721,091501,Computational Fluid Dynamics,5,3,09,0915
+722,091502,Computational Heat Transfer,5,3,09,0915
+723,091503,Engineering Practice,5,3,09,0915
+724,091504,Fluidisation and Fluid Mechanics,5,3,09,0915
+725,091505,Heat and Mass Transfer Operations,5,3,09,0915
+726,091506,Nuclear Engineering (incl. Fuel Enrichment and Waste Processing and Storage),5,3,09,0915
+727,091507,Risk Engineering (excl. Earthquake Engineering),5,3,09,0915
+728,091508,Turbulent Flows,5,3,09,0915
+729,091599,Interdisciplinary Engineering not elsewhere classified,5,3,09,0915
+730,099901,Agricultural Engineering,5,3,09,0999
+731,099902,Engineering Instrumentation,5,3,09,0999
+732,099999,Engineering not elsewhere classified,5,3,09,0999
+733,100101,Agricultural Biotechnology Diagnostics (incl. Biosensors),6,3,10,1001
+734,100102,Agricultural Marine Biotechnology,6,3,10,1001
+735,100103,Agricultural Molecular Engineering of Nucleic Acids and Proteins,6,3,10,1001
+736,100104,Genetically Modified Animals,6,3,10,1001
+737,100105,Genetically Modified Field Crops and Pasture,6,3,10,1001
+738,100106,Genetically Modified Horticulture Plants,6,3,10,1001
+739,100107,Genetically Modified Trees,6,3,10,1001
+740,100108,Livestock Cloning,6,3,10,1001
+741,100109,Transgenesis,6,3,10,1001
+742,100199,Agricultural Biotechnology not elsewhere classified,6,3,10,1001
+743,100201,Biodiscovery,6,3,10,1002
+744,100202,Biological Control,6,3,10,1002
+745,100203,Bioremediation,6,3,10,1002
+746,100204,Environmental Biotechnology Diagnostics (incl. Biosensors),6,3,10,1002
+747,100205,Environmental Marine Biotechnology,6,3,10,1002
+748,100206,Environmental Molecular Engineering of Nucleic Acids and Proteins,6,3,10,1002
+749,100299,Environmental Biotechnology not elsewhere classified,6,3,10,1002
+750,100301,Biocatalysis and Enzyme Technology,6,3,10,1003
+751,100302,"Bioprocessing, Bioproduction and Bioproducts",6,3,10,1003
+752,100303,Fermentation,6,3,10,1003
+753,100304,Industrial Biotechnology Diagnostics (incl. Biosensors),6,3,10,1003
+754,100305,Industrial Microbiology (incl. Biofeedstocks),6,3,10,1003
+755,100306,Industrial Molecular Engineering of Nucleic Acids and Proteins,6,3,10,1003
+756,100399,Industrial Biotechnology not elsewhere classified,6,3,10,1003
+757,100401,Gene and Molecular Therapy,6,3,10,1004
+758,100402,Medical Biotechnology Diagnostics (incl. Biosensors),6,3,10,1004
+759,100403,Medical Molecular Engineering of Nucleic Acids and Proteins,6,3,10,1004
+760,100404,Regenerative Medicine (incl. Stem Cells and Tissue Engineering),6,3,10,1004
+761,100499,Medical Biotechnology not elsewhere classified,6,3,10,1004
+762,100501,Antennas and Propagation,6,3,10,1005
+763,100502,Broadband and Modem Technology,6,3,10,1005
+764,100503,Computer Communications Networks,6,3,10,1005
+765,100504,Data Communications,6,3,10,1005
+766,100505,Microwave and Millimetrewave Theory and Technology,6,3,10,1005
+767,100506,Optical Fibre Communications,6,3,10,1005
+768,100507,Optical Networks and Systems,6,3,10,1005
+769,100508,Satellite Communications,6,3,10,1005
+770,100509,Video Communications,6,3,10,1005
+771,100510,Wireless Communications,6,3,10,1005
+772,100599,Communications Technologies not elsewhere classified,6,3,10,1005
+773,100601,Arithmetic and Logic Structures,6,3,10,1006
+774,100602,"Input, Output and Data Devices",6,3,10,1006
+775,100603,Logic Design,6,3,10,1006
+776,100604,Memory Structures,6,3,10,1006
+777,100605,Performance Evaluation; Testing and Simulation of Reliability,6,3,10,1006
+778,100606,Processor Architectures,6,3,10,1006
+779,100699,Computer Hardware not elsewhere classified,6,3,10,1006
+780,100701,Environmental Nanotechnology,6,3,10,1007
+781,100702,Molecular and Organic Electronics,6,3,10,1007
+782,100703,Nanobiotechnology,6,3,10,1007
+783,100704,Nanoelectromechanical Systems,6,3,10,1007
+784,100705,Nanoelectronics,6,3,10,1007
+785,100706,"Nanofabrication, Growth and Self Assembly",6,3,10,1007
+786,100707,Nanomanufacturing,6,3,10,1007
+787,100708,Nanomaterials,6,3,10,1007
+788,100709,Nanomedicine,6,3,10,1007
+789,100710,Nanometrology,6,3,10,1007
+790,100711,Nanophotonics,6,3,10,1007
+791,100712,Nanoscale Characterisation,6,3,10,1007
+792,100713,"Nanotoxicology, Health and Safety",6,3,10,1007
+793,100799,Nanotechnology not elsewhere classified,6,3,10,1007
+794,109999,Technology not elsewhere classified,6,3,10,1099
+795,110101,Medical Biochemistry: Amino Acids and Metabolites,6,3,11,1101
+796,110102,Medical Biochemistry: Carbohydrates,6,3,11,1101
+797,110103,Medical Biochemistry: Inorganic Elements and Compounds,6,3,11,1101
+798,110104,Medical Biochemistry: Lipids,6,3,11,1101
+799,110105,Medical Biochemistry: Nucleic Acids,6,3,11,1101
+800,110106,Medical Biochemistry: Proteins and Peptides (incl. Medical Proteomics),6,3,11,1101
+801,110107,Metabolic Medicine,6,3,11,1101
+802,110199,Medical Biochemistry and Metabolomics not elsewhere classified,6,3,11,1101
+803,110201,Cardiology (incl. Cardiovascular Diseases),6,3,11,1102
+804,110202,Haematology,6,3,11,1102
+805,110203,Respiratory Diseases,6,3,11,1102
+806,110299,Cardiorespiratory Medicine and Haematology not elsewhere classified,6,3,11,1102
+807,110301,Anaesthesiology,6,3,11,1103
+808,110302,Clinical Chemistry (diagnostics),6,3,11,1103
+809,110303,Clinical Microbiology,6,3,11,1103
+810,110304,Dermatology,6,3,11,1103
+811,110305,Emergency Medicine,6,3,11,1103
+812,110306,Endocrinology,6,3,11,1103
+813,110307,Gastroenterology and Hepatology,6,3,11,1103
+814,110308,Geriatrics and Gerontology,6,3,11,1103
+815,110309,Infectious Diseases,6,3,11,1103
+816,110310,Intensive Care,6,3,11,1103
+817,110311,Medical Genetics (excl. Cancer Genetics),6,3,11,1103
+818,110312,Nephrology and Urology,6,3,11,1103
+819,110313,Nuclear Medicine,6,3,11,1103
+820,110314,Orthopaedics,6,3,11,1103
+821,110315,Otorhinolaryngology,6,3,11,1103
+822,110316,Pathology (excl. Oral Pathology),6,3,11,1103
+823,110317,Physiotherapy,6,3,11,1103
+824,110318,Podiatry,6,3,11,1103
+825,110319,Psychiatry (incl. Psychotherapy),6,3,11,1103
+826,110320,Radiology and Organ Imaging,6,3,11,1103
+827,110321,Rehabilitation and Therapy (excl. Physiotherapy),6,3,11,1103
+828,110322,Rheumatology and Arthritis,6,3,11,1103
+829,110323,Surgery,6,3,11,1103
+830,110324,Venereology,6,3,11,1103
+831,110399,Clinical Sciences not elsewhere classified,6,3,11,1103
+832,110401,Chiropractic,6,3,11,1104
+833,110402,Naturopathy,6,3,11,1104
+834,110403,Traditional Aboriginal and Torres Strait Islander Medicine and Treatments,6,3,11,1104
+835,110404,Traditional Chinese Medicine and Treatments,6,3,11,1104
+836,110405,Traditional Maori Medicine and Treatments,6,3,11,1104
+837,110499,Complementary and Alternative Medicine not elsewhere classified,6,3,11,1104
+838,110501,Dental Materials and Equipment,6,3,11,1105
+839,110502,"Dental Therapeutics, Pharmacology and Toxicology",6,3,11,1105
+840,110503,Endodontics,6,3,11,1105
+841,110504,Oral and Maxillofacial Surgery,6,3,11,1105
+842,110505,Oral Medicine and Pathology,6,3,11,1105
+843,110506,Orthodontics and Dentofacial Orthopaedics,6,3,11,1105
+844,110507,Paedodontics,6,3,11,1105
+845,110508,Periodontics,6,3,11,1105
+846,110509,Special Needs Dentistry,6,3,11,1105
+847,110599,Dentistry not elsewhere classified,6,3,11,1105
+848,110601,Biomechanics,6,3,11,1106
+849,110602,Exercise Physiology,6,3,11,1106
+850,110603,Motor Control,6,3,11,1106
+851,110604,Sports Medicine,6,3,11,1106
+852,110699,Human Movement and Sports Science not elsewhere classified,6,3,11,1106
+853,110701,Allergy,6,3,11,1107
+854,110702,"Applied Immunology (incl. Antibody Engineering, Xenotransplantation and T-cell Therapies)",6,3,11,1107
+855,110703,Autoimmunity,6,3,11,1107
+856,110704,Cellular Immunology,6,3,11,1107
+857,110705,Humoural Immunology and Immunochemistry,6,3,11,1107
+858,110706,Immunogenetics (incl. Genetic Immunology),6,3,11,1107
+859,110707,Innate Immunity,6,3,11,1107
+860,110708,Transplantation Immunology,6,3,11,1107
+861,110709,Tumour Immunology,6,3,11,1107
+862,110799,Immunology not elsewhere classified,6,3,11,1107
+863,110801,Medical Bacteriology,6,3,11,1108
+864,110802,Medical Infection Agents (incl. Prions),6,3,11,1108
+865,110803,Medical Parasitology,6,3,11,1108
+866,110804,Medical Virology,6,3,11,1108
+867,110899,Medical Microbiology not elsewhere classified,6,3,11,1108
+868,110901,Autonomic Nervous System,6,3,11,1109
+869,110902,Cellular Nervous System,6,3,11,1109
+870,110903,Central Nervous System,6,3,11,1109
+871,110904,Neurology and Neuromuscular Diseases,6,3,11,1109
+872,110905,Peripheral Nervous System,6,3,11,1109
+873,110906,Sensory Systems,6,3,11,1109
+874,110999,Neurosciences not elsewhere classified,6,3,11,1109
+875,111001,Aged Care Nursing,6,3,11,1110
+876,111002,Clinical Nursing: Primary (Preventative),6,3,11,1110
+877,111003,Clinical Nursing: Secondary (Acute Care),6,3,11,1110
+878,111004,Clinical Nursing: Tertiary (Rehabilitative),6,3,11,1110
+879,111005,Mental Health Nursing,6,3,11,1110
+880,111006,Midwifery,6,3,11,1110
+881,111099,Nursing not elsewhere classified,6,3,11,1110
+882,111101,Clinical and Sports Nutrition,6,3,11,1111
+883,111102,Dietetics and Nutrigenomics,6,3,11,1111
+884,111103,Nutritional Physiology,6,3,11,1111
+885,111104,Public Nutrition Intervention,6,3,11,1111
+886,111199,Nutrition and Dietetics not elsewhere classified,6,3,11,1111
+887,111201,Cancer Cell Biology,6,3,11,1112
+888,111202,Cancer Diagnosis,6,3,11,1112
+889,111203,Cancer Genetics,6,3,11,1112
+890,111204,Cancer Therapy (excl. Chemotherapy and Radiation Therapy),6,3,11,1112
+891,111205,Chemotherapy,6,3,11,1112
+892,111206,Haematological Tumours,6,3,11,1112
+893,111207,Molecular Targets,6,3,11,1112
+894,111208,Radiation Therapy,6,3,11,1112
+895,111209,Solid Tumours,6,3,11,1112
+896,111299,Oncology and Carcinogenesis not elsewhere classified,6,3,11,1112
+897,111301,Ophthalmology,6,3,11,1113
+898,111302,Optical Technology,6,3,11,1113
+899,111303,Vision Science,6,3,11,1113
+900,111399,Ophthalmology and Optometry not elsewhere classified,6,3,11,1113
+901,111401,Foetal Development and Medicine,6,3,11,1114
+902,111402,Obstetrics and Gynaecology,6,3,11,1114
+903,111403,Paediatrics,6,3,11,1114
+904,111404,Reproduction,6,3,11,1114
+905,111499,Paediatrics and Reproductive Medicine not elsewhere classified,6,3,11,1114
+906,111501,Basic Pharmacology,6,3,11,1115
+907,111502,Clinical Pharmacology and Therapeutics,6,3,11,1115
+908,111503,Clinical Pharmacy and Pharmacy Practice,6,3,11,1115
+909,111504,Pharmaceutical Sciences,6,3,11,1115
+910,111505,Pharmacogenomics,6,3,11,1115
+911,111506,Toxicology (incl. Clinical Toxicology),6,3,11,1115
+912,111599,Pharmacology and Pharmaceutical Sciences not elsewhere classified,6,3,11,1115
+913,111601,Human Biophysics,6,3,11,1116
+914,111603,Systems Physiology,6,3,11,1116
+915,111699,Medical Physiology not elsewhere classified,6,3,11,1116
+916,111701,Aboriginal and Torres Strait Islander Health,6,3,11,1117
+917,111702,Aged Health Care,6,3,11,1117
+918,111703,Care for Disabled,6,3,11,1117
+919,111704,Community Child Health,6,3,11,1117
+920,111705,Environmental and Occupational Health and Safety,6,3,11,1117
+921,111706,Epidemiology,6,3,11,1117
+922,111707,Family Care,6,3,11,1117
+923,111708,Health and Community Services,6,3,11,1117
+924,111709,Health Care Administration,6,3,11,1117
+925,111710,Health Counselling,6,3,11,1117
+926,111711,Health Information Systems (incl. Surveillance),6,3,11,1117
+927,111712,Health Promotion,6,3,11,1117
+928,111713,Maori Health,6,3,11,1117
+929,111714,Mental Health,6,3,11,1117
+930,111715,Pacific Peoples Health,6,3,11,1117
+931,111716,Preventive Medicine,6,3,11,1117
+932,111717,Primary Health Care,6,3,11,1117
+933,111718,Residential Client Care,6,3,11,1117
+934,111799,Public Health and Health Services not elsewhere classified,6,3,11,1117
+935,119999,Medical and Health Sciences not elsewhere classified,6,3,11,1199
+936,120101,Architectural Design,6,3,12,1201
+937,120102,Architectural Heritage and Conservation,6,3,12,1201
+938,120103,Architectural History and Theory,6,3,12,1201
+939,120104,"Architectural Science and Technology (incl. Acoustics, Lighting, Structure and Ecologically Sustainable Design)",6,3,12,1201
+940,120105,Architecture Management,6,3,12,1201
+941,120106,Interior Design,6,3,12,1201
+942,120107,Landscape Architecture,6,3,12,1201
+943,120199,Architecture not elsewhere classified,6,3,12,1201
+944,120201,Building Construction Management and Project Planning,6,3,12,1202
+945,120202,Building Science and Techniques,6,3,12,1202
+946,120203,Quantity Surveying,6,3,12,1202
+947,120299,Building not elsewhere classified,6,3,12,1202
+948,120301,Design History and Theory,6,3,12,1203
+949,120302,Design Innovation,6,3,12,1203
+950,120303,Design Management and Studio and Professional Practice,6,3,12,1203
+951,120304,Digital and Interaction Design,6,3,12,1203
+952,120305,Industrial Design,6,3,12,1203
+953,120306,Textile and Fashion Design,6,3,12,1203
+954,120307,Visual Communication Design (incl. Graphic Design),6,3,12,1203
+955,120399,Design Practice and Management not elsewhere classified,6,3,12,1203
+956,120401,Engineering Design Empirical Studies,6,3,12,1204
+957,120402,Engineering Design Knowledge,6,3,12,1204
+958,120403,Engineering Design Methods,6,3,12,1204
+959,120404,Engineering Systems Design,6,3,12,1204
+960,120405,Models of Engineering Design,6,3,12,1204
+961,120499,Engineering Design not elsewhere classified,6,3,12,1204
+962,120501,Community Planning,6,3,12,1205
+963,120502,History and Theory of the Built Environment (excl. Architecture),6,3,12,1205
+964,120503,"Housing Markets, Development, Management",6,3,12,1205
+965,120504,Land Use and Environmental Planning,6,3,12,1205
+966,120505,Regional Analysis and Development,6,3,12,1205
+967,120506,Transport Planning,6,3,12,1205
+968,120507,Urban Analysis and Development,6,3,12,1205
+969,120508,Urban Design,6,3,12,1205
+970,120599,Urban and Regional Planning not elsewhere classified,6,3,12,1205
+971,129999,Built Environment and Design not elsewhere classified,6,3,12,1299
+972,130101,Continuing and Community Education,6,3,13,1301
+973,130102,Early Childhood Education (excl. Maori),6,3,13,1301
+974,130103,Higher Education,6,3,13,1301
+975,130104,Kura Kaupapa Maori (Maori Primary Education),6,3,13,1301
+976,130105,Primary Education (excl. Maori),6,3,13,1301
+977,130106,Secondary Education,6,3,13,1301
+978,130107,Te Whariki (Maori Early Childhood Education),6,3,13,1301
+979,130108,"Technical, Further and Workplace Education",6,3,13,1301
+980,130199,Education systems not elsewhere classified,6,3,13,1301
+981,130201,"Creative Arts, Media and Communication Curriculum and Pedagogy",6,3,13,1302
+982,130202,Curriculum and Pedagogy Theory and Development,6,3,13,1302
+983,130203,"Economics, Business and Management Curriculum and Pedagogy",6,3,13,1302
+984,130204,"English and Literacy Curriculum and Pedagogy (excl. LOTE, ESL and TESOL)",6,3,13,1302
+985,130205,"Humanities and Social Sciences Curriculum and Pedagogy (excl. Economics, Business and Management)",6,3,13,1302
+986,130206,Kohanga Reo (Maori Language Curriculum and Pedagogy),6,3,13,1302
+987,130207,"LOTE, ESL and TESOL Curriculum and Pedagogy (excl. Maori)",6,3,13,1302
+988,130208,Mathematics and Numeracy Curriculum and Pedagogy,6,3,13,1302
+989,130209,"Medicine, Nursing and Health Curriculum and Pedagogy",6,3,13,1302
+990,130210,Physical Education and Development Curriculum and Pedagogy,6,3,13,1302
+991,130211,Religion Curriculum and Pedagogy,6,3,13,1302
+992,130212,"Science, Technology and Engineering Curriculum and Pedagogy",6,3,13,1302
+993,130213,Vocational Education and Training Curriculum and Pedagogy,6,3,13,1302
+994,130299,Curriculum and Pedagogy not elsewhere classified,6,3,13,1302
+995,130301,Aboriginal and Torres Strait Islander Education,6,3,13,1303
+996,130302,Comparative and Cross-Cultural Education,6,3,13,1303
+997,130303,Education Assessment and Evaluation,6,3,13,1303
+998,130304,"Educational Administration, Management and Leadership",6,3,13,1303
+999,130305,Educational Counselling,6,3,13,1303
+1000,130306,Educational Technology and Computing,6,3,13,1303
+1001,130307,"Ethnic Education (excl. Aboriginal and Torres Strait Islander, Maori and Pacific Peoples)",6,3,13,1303
+1002,130308,"Gender, Sexuality and Education",6,3,13,1303
+1003,130309,Learning Sciences,6,3,13,1303
+1004,130310,Maori Education (excl. Early Childhood and Primary Education),6,3,13,1303
+1005,130311,Pacific Peoples Education,6,3,13,1303
+1006,130312,Special Education and Disability,6,3,13,1303
+1007,130313,Teacher Education and Professional Development of Educators,6,3,13,1303
+1008,130399,Specialist Studies in Education not elsewhere classified,6,3,13,1303
+1009,139999,Education not elsewhere classified,6,3,13,1399
+1010,140101,History of Economic Thought,6,3,14,1401
+1011,140102,Macroeconomic Theory,6,3,14,1401
+1012,140103,Mathematical Economics,6,3,14,1401
+1013,140104,Microeconomic Theory,6,3,14,1401
+1014,140199,Economic Theory not elsewhere classified,6,3,14,1401
+1015,140201,Agricultural Economics,6,3,14,1402
+1016,140202,Economic Development and Growth,6,3,14,1402
+1017,140203,Economic History,6,3,14,1402
+1018,140204,Economics of Education,6,3,14,1402
+1019,140205,Environment and Resource Economics,6,3,14,1402
+1020,140206,Experimental Economics,6,3,14,1402
+1021,140207,Financial Economics,6,3,14,1402
+1022,140208,Health Economics,6,3,14,1402
+1023,140209,Industry Economics and Industrial Organisation,6,3,14,1402
+1024,140210,International Economics and International Finance,6,3,14,1402
+1025,140211,Labour Economics,6,3,14,1402
+1026,140212,Macroeconomics (incl. Monetary and Fiscal Theory),6,3,14,1402
+1027,140213,Public Economics- Public Choice,6,3,14,1402
+1028,140214,Public Economics- Publically Provided Goods,6,3,14,1402
+1029,140215,Public Economics- Taxation and Revenue,6,3,14,1402
+1030,140216,Tourism Economics,6,3,14,1402
+1031,140217,Transport Economics,6,3,14,1402
+1032,140218,Urban and Regional Economics,6,3,14,1402
+1033,140219,Welfare Economics,6,3,14,1402
+1034,140299,Applied Economics not elsewhere classified,6,3,14,1402
+1035,140301,Cross-Sectional Analysis,6,3,14,1403
+1036,140302,Econometric and Statistical Methods,6,3,14,1403
+1037,140303,Economic Models and Forecasting,6,3,14,1403
+1038,140304,Panel Data Analysis,6,3,14,1403
+1039,140305,Time-Series Analysis,6,3,14,1403
+1040,140399,Econometrics not elsewhere classified,6,3,14,1403
+1041,149901,Comparative Economic Systems,6,3,14,1499
+1042,149902,Ecological Economics,6,3,14,1499
+1043,149903,Heterodox Economics,6,3,14,1499
+1044,149999,Economics not elsewhere classified,6,3,14,1499
+1045,150101,Accounting Theory and Standards,6,3,15,1501
+1046,150102,Auditing and Accountability,6,3,15,1501
+1047,150103,Financial Accounting,6,3,15,1501
+1048,150104,International Accounting,6,3,15,1501
+1049,150105,Management Accounting,6,3,15,1501
+1050,150106,Sustainability Accounting and Reporting,6,3,15,1501
+1051,150107,Taxation Accounting,6,3,15,1501
+1052,150199,"Accounting, Auditing and Accountability not elsewhere classified",6,3,15,1501
+1053,150201,Finance,6,3,15,1502
+1054,150202,Financial Econometrics,6,3,15,1502
+1055,150203,Financial Institutions (incl. Banking),6,3,15,1502
+1056,150204,Insurance Studies,6,3,15,1502
+1057,150205,Investment and Risk Management,6,3,15,1502
+1058,150299,"Banking, Finance and Investment not elsewhere classified",6,3,15,1502
+1059,150301,"Business Information Management (incl. Records, Knowledge and Information Management, and Intelligence)",6,3,15,1503
+1060,150302,Business Information Systems,6,3,15,1503
+1061,150303,Corporate Governance and Stakeholder Engagement,6,3,15,1503
+1062,150304,Entrepreneurship,6,3,15,1503
+1063,150305,Human Resources Management,6,3,15,1503
+1064,150306,Industrial Relations,6,3,15,1503
+1065,150307,Innovation and Technology Management,6,3,15,1503
+1066,150308,International Business,6,3,15,1503
+1067,150309,Logistics and Supply Chain Management,6,3,15,1503
+1068,150310,Organisation and Management Theory,6,3,15,1503
+1069,150311,Organisational Behaviour,6,3,15,1503
+1070,150312,Organisational Planning and Management,6,3,15,1503
+1071,150313,Quality Management,6,3,15,1503
+1072,150314,Small Business Management,6,3,15,1503
+1073,150399,Business and Management not elsewhere classified,6,3,15,1503
+1074,150401,Food and Hospitality Services,6,3,15,1504
+1075,150402,Hospitality Management,6,3,15,1504
+1076,150403,Real Estate and Valuation Services,6,3,15,1504
+1077,150404,Sport and Leisure Management,6,3,15,1504
+1078,150499,Commercial Services not elsewhere classified,6,3,15,1504
+1079,150501,Consumer-Oriented Product or Service Development,6,3,15,1505
+1080,150502,Marketing Communications,6,3,15,1505
+1081,150503,Marketing Management (incl. Strategy and Customer Relations),6,3,15,1505
+1082,150504,Marketing Measurement,6,3,15,1505
+1083,150505,Marketing Research Methodology,6,3,15,1505
+1084,150506,Marketing Theory,6,3,15,1505
+1085,150507,Pricing (incl. Consumer Value Estimation),6,3,15,1505
+1086,150599,Marketing not elsewhere classified,6,3,15,1505
+1087,150601,Impacts of Tourism,6,3,15,1506
+1088,150602,Tourism Forecasting,6,3,15,1506
+1089,150603,Tourism Management,6,3,15,1506
+1090,150604,Tourism Marketing,6,3,15,1506
+1091,150605,Tourism Resource Appraisal,6,3,15,1506
+1092,150606,Tourist Behaviour and Visitor Experience,6,3,15,1506
+1093,150699,Tourism not elsewhere classified,6,3,15,1506
+1094,150701,Air Transportation and Freight Services,6,3,15,1507
+1095,150702,Rail Transportation and Freight Services,6,3,15,1507
+1096,150703,Road Transportation and Freight Services,6,3,15,1507
+1097,150799,Transportation and Freight Services not elsewhere classified,6,3,15,1507
+1098,159999,"Commerce, Management, Tourism and Services not elsewhere classified",6,3,15,1599
+1099,160101,Anthropology of Development,6,3,16,1601
+1100,160102,Biological (Physical) Anthropology,6,3,16,1601
+1101,160103,Linguistic Anthropology,6,3,16,1601
+1102,160104,Social and Cultural Anthropology,6,3,16,1601
+1103,160199,Anthropology not elsewhere classified,6,3,16,1601
+1104,160201,Causes and Prevention of Crime,6,3,16,1602
+1105,160202,"Correctional Theory, Offender Treatment and Rehabilitation",6,3,16,1602
+1106,160203,Courts and Sentencing,6,3,16,1602
+1107,160204,Criminological Theories,6,3,16,1602
+1108,160205,"Police Administration, Procedures and Practice",6,3,16,1602
+1109,160206,Private Policing and Security Services,6,3,16,1602
+1110,160299,Criminology not elsewhere classified,6,3,16,1602
+1111,160301,Family and Household Studies,6,3,16,1603
+1112,160302,Fertility,6,3,16,1603
+1113,160303,Migration,6,3,16,1603
+1114,160304,Mortality,6,3,16,1603
+1115,160305,Population Trends and Policies,6,3,16,1603
+1116,160399,Demography not elsewhere classified,6,3,16,1603
+1117,160401,Economic Geography,6,3,16,1604
+1118,160402,"Recreation, Leisure and Tourism Geography",6,3,16,1604
+1119,160403,Social and Cultural Geography,6,3,16,1604
+1120,160404,Urban and Regional Studies (excl. Planning),6,3,16,1604
+1121,160499,Human Geography not elsewhere classified,6,3,16,1604
+1122,160501,Aboriginal and Torres Strait Islander Policy,6,3,16,1605
+1123,160502,Arts and Cultural Policy,6,3,16,1605
+1124,160503,Communications and Media Policy,6,3,16,1605
+1125,160504,Crime Policy,6,3,16,1605
+1126,160505,Economic Development Policy,6,3,16,1605
+1127,160506,Education Policy,6,3,16,1605
+1128,160507,Environment Policy,6,3,16,1605
+1129,160508,Health Policy,6,3,16,1605
+1130,160509,Public Administration,6,3,16,1605
+1131,160510,Public Policy,6,3,16,1605
+1132,160511,"Research, Science and Technology Policy",6,3,16,1605
+1133,160512,Social Policy,6,3,16,1605
+1134,160513,Tourism Policy,6,3,16,1605
+1135,160514,Urban Policy,6,3,16,1605
+1136,160599,Policy and Administration not elsewhere classified,6,3,16,1605
+1137,160601,Australian Government and Politics,6,3,16,1606
+1138,160602,Citizenship,6,3,16,1606
+1139,160603,Comparative Government and Politics,6,3,16,1606
+1140,160604,Defence Studies,6,3,16,1606
+1141,160605,Environmental Politics,6,3,16,1606
+1142,160606,Government and Politics of Asia and the Pacific,6,3,16,1606
+1143,160607,International Relations,6,3,16,1606
+1144,160608,New Zealand Government and Politics,6,3,16,1606
+1145,160609,Political Theory and Political Philosophy,6,3,16,1606
+1146,160699,Political Science not elsewhere classified,6,3,16,1606
+1147,160701,Clinical Social Work Practice,6,3,16,1607
+1148,160702,"Counselling, Welfare and Community Services",6,3,16,1607
+1149,160703,Social Program Evaluation,6,3,16,1607
+1150,160799,Social Work not elsewhere classified,6,3,16,1607
+1151,160801,"Applied Sociology, Program Evaluation and Social Impact Assessment",6,3,16,1608
+1152,160802,Environmental Sociology,6,3,16,1608
+1153,160803,Race and Ethnic Relations,6,3,16,1608
+1154,160804,Rural Sociology,6,3,16,1608
+1155,160805,Social Change,6,3,16,1608
+1156,160806,Social Theory,6,3,16,1608
+1157,160807,Sociological Methodology and Research Methods,6,3,16,1608
+1158,160808,Sociology and Social Studies of Science and Technology,6,3,16,1608
+1159,160809,Sociology of Education,6,3,16,1608
+1160,160810,Urban Sociology and Community Studies,6,3,16,1608
+1161,160899,Sociology not elsewhere classified,6,3,16,1608
+1162,169901,Gender Specific Studies,6,3,16,1699
+1163,169902,Studies of Aboriginal and Torres Strait Islander Society,6,3,16,1699
+1164,169903,Studies of Asian Society,6,3,16,1699
+1165,169904,Studies of Maori Society,6,3,16,1699
+1166,169905,Studies of Pacific Peoples' Societies,6,3,16,1699
+1167,169999,Studies in Human Society not elsewhere classified,6,3,16,1699
+1168,170101,"Biological Psychology (Neuropsychology, Psychopharmacology, Physiological Psychology)",6,3,17,1701
+1169,170102,Developmental Psychology and Ageing,6,3,17,1701
+1170,170103,Educational Psychology,6,3,17,1701
+1171,170104,Forensic Psychology,6,3,17,1701
+1172,170105,Gender Psychology,6,3,17,1701
+1173,170106,"Health, Clinical and Counselling Psychology",6,3,17,1701
+1174,170107,Industrial and Organisational Psychology,6,3,17,1701
+1175,170108,Kaupapa Maori Psychology,6,3,17,1701
+1176,170109,"Personality, Abilities and Assessment",6,3,17,1701
+1177,170110,"Psychological Methodology, Design and Analysis",6,3,17,1701
+1178,170111,Psychology of Religion,6,3,17,1701
+1179,170112,"Sensory Processes, Perception and Performance",6,3,17,1701
+1180,170113,Social and Community Psychology,6,3,17,1701
+1181,170114,Sport and Exercise Psychology,6,3,17,1701
+1182,170199,Psychology not elsewhere classified,6,3,17,1701
+1183,170201,"Computer Perception, Memory and Attention",6,3,17,1702
+1184,170202,Decision Making,6,3,17,1702
+1185,170203,Knowledge Representation and Machine Learning,6,3,17,1702
+1186,170204,Linguistic Processes (incl. Speech Production and Comprehension),6,3,17,1702
+1187,170205,Neurocognitive Patterns and Neural Networks,6,3,17,1702
+1188,170299,Cognitive Sciences not elsewhere classified,6,3,17,1702
+1189,179999,Psychology and Cognitive Sciences not elsewhere classified,6,3,17,1799
+1190,180101,Aboriginal and Torres Strait Islander Law,6,3,18,1801
+1191,180102,Access to Justice,6,3,18,1801
+1192,180103,Administrative Law,6,3,18,1801
+1193,180104,Civil Law and Procedure,6,3,18,1801
+1194,180105,Commercial and Contract Law,6,3,18,1801
+1195,180106,Comparative Law,6,3,18,1801
+1196,180107,Conflict of Laws (Private International Law),6,3,18,1801
+1197,180108,Constitutional Law,6,3,18,1801
+1198,180109,Corporations and Associations Law,6,3,18,1801
+1199,180110,Criminal Law and Procedure,6,3,18,1801
+1200,180111,Environmental and Natural Resources Law,6,3,18,1801
+1201,180112,Equity and Trusts Law,6,3,18,1801
+1202,180113,Family Law,6,3,18,1801
+1203,180114,Human Rights Law,6,3,18,1801
+1204,180115,Intellectual Property Law,6,3,18,1801
+1205,180116,International Law (excl. International Trade Law),6,3,18,1801
+1206,180117,International Trade Law,6,3,18,1801
+1207,180118,Labour Law,6,3,18,1801
+1208,180119,Law and Society,6,3,18,1801
+1209,180120,Legal Institutions (incl. Courts and Justice Systems),6,3,18,1801
+1210,180121,"Legal Practice, Lawyering and the Legal Profession",6,3,18,1801
+1211,180122,"Legal Theory, Jurisprudence and Legal Interpretation",6,3,18,1801
+1212,180123,"Litigation, Adjudication and Dispute Resolution",6,3,18,1801
+1213,180124,Property Law (excl. Intellectual Property Law),6,3,18,1801
+1214,180125,Taxation Law,6,3,18,1801
+1215,180126,Tort Law,6,3,18,1801
+1216,180199,Law not elsewhere classified,6,3,18,1801
+1217,180201,Nga Tikanga Maori (Maori Customary Law),6,3,18,1802
+1218,180202,Te Maori Whakahaere Rauemi (Maori Resource Law)),6,3,18,1802
+1219,180203,Te Tiriti o Waitangi (The Treaty of Waitangi),6,3,18,1802
+1220,180204,Te Ture Whenua (Maori Land Law),6,3,18,1802
+1221,180299,Maori Law not elsewhere classified,6,3,18,1802
+1222,189999,Law and Legal Studies not elsewhere classified,6,3,18,1899
+1223,190101,Art Criticism,6,3,19,1901
+1224,190102,Art History,6,3,19,1901
+1225,190103,Art Theory,6,3,19,1901
+1226,190104,Visual Cultures,6,3,19,1901
+1227,190199,Art Theory and Criticism not elsewhere classified,6,3,19,1901
+1228,190201,Cinema Studies,6,3,19,1902
+1229,190202,Computer Gaming and Animation,6,3,19,1902
+1230,190203,Electronic Media Art,6,3,19,1902
+1231,190204,Film and Television,6,3,19,1902
+1232,190205,Interactive Media,6,3,19,1902
+1233,190299,"Film, Television and Digital Media not elsewhere classified",6,3,19,1902
+1234,190301,Journalism Studies,6,3,19,1903
+1235,190302,Professional Writing,6,3,19,1903
+1236,190303,Technical Writing,6,3,19,1903
+1237,190399,Journalism and Professional Writing not elsewhere classified,6,3,19,1903
+1238,190401,Aboriginal and Torres Strait Islander Performing Arts,6,3,19,1904
+1239,190402,Creative Writing (incl. Playwriting),6,3,19,1904
+1240,190403,Dance,6,3,19,1904
+1241,190404,"Drama, Theatre and Performance Studies",6,3,19,1904
+1242,190405,Maori Performing Arts,6,3,19,1904
+1243,190406,Music Composition,6,3,19,1904
+1244,190407,Music Performance,6,3,19,1904
+1245,190408,Music Therapy,6,3,19,1904
+1246,190409,Musicology and Ethnomusicology,6,3,19,1904
+1247,190410,Pacific Peoples Performing Arts,6,3,19,1904
+1248,190499,Performing Arts and Creative Writing not elsewhere classified,6,3,19,1904
+1249,190501,Crafts,6,3,19,1905
+1250,190502,Fine Arts (incl. Sculpture and Painting),6,3,19,1905
+1251,190503,Lens-based Practice,6,3,19,1905
+1252,190504,Performance and Installation Art,6,3,19,1905
+1253,190599,Visual Arts and Crafts not elsewhere classified,6,3,19,1905
+1254,199999,Studies in Creative Arts and Writing not elsewhere classified,6,3,19,1999
+1255,200101,Communication Studies,6,3,20,2001
+1256,200102,Communication Technology and Digital Media Studies,6,3,20,2001
+1257,200103,International and Development Communication,6,3,20,2001
+1258,200104,Media Studies,6,3,20,2001
+1259,200105,"Organisational, Interpersonal and Intercultural Communication",6,3,20,2001
+1260,200199,Communication and Media Studies not elsewhere classified,6,3,20,2001
+1261,200201,Aboriginal and Torres Strait Islander Cultural Studies,6,3,20,2002
+1262,200202,Asian Cultural Studies,6,3,20,2002
+1263,200203,Consumption and Everyday Life,6,3,20,2002
+1264,200204,Cultural Theory,6,3,20,2002
+1265,200205,"Culture, Gender, Sexuality",6,3,20,2002
+1266,200206,Globalisation and Culture,6,3,20,2002
+1267,200207,Maori Cultural Studies,6,3,20,2002
+1268,200208,Migrant Cultural Studies,6,3,20,2002
+1269,200209,"Multicultural, Intercultural and Cross-cultural Studies",6,3,20,2002
+1270,200210,Pacific Cultural Studies,6,3,20,2002
+1271,200211,Postcolonial Studies,6,3,20,2002
+1272,200212,Screen and Media Culture,6,3,20,2002
+1273,200299,Cultural Studies not elsewhere classified,6,3,20,2002
+1274,200301,Early English Languages,6,3,20,2003
+1275,200302,English Language,6,3,20,2003
+1276,200303,English as a Second Language,6,3,20,2003
+1277,200304,Central and Eastern European Languages (incl. Russian),6,3,20,2003
+1278,200305,Latin and Classical Greek Languages,6,3,20,2003
+1279,200306,French Language,6,3,20,2003
+1280,200307,German Language,6,3,20,2003
+1281,200308,Iberian Languages,6,3,20,2003
+1282,200309,Italian Language,6,3,20,2003
+1283,200310,Other European Languages,6,3,20,2003
+1284,200311,Chinese Languages,6,3,20,2003
+1285,200312,Japanese Language,6,3,20,2003
+1286,200313,Indonesian Languages,6,3,20,2003
+1287,200314,South-East Asian Languages (excl. Indonesian),6,3,20,2003
+1288,200315,Indian Languages,6,3,20,2003
+1289,200316,Korean Language,6,3,20,2003
+1290,200317,Other Asian Languages (excl. South-East Asian),6,3,20,2003
+1291,200318,Middle Eastern Languages,6,3,20,2003
+1292,200319,Aboriginal and Torres Strait Islander Languages,6,3,20,2003
+1293,200320,Pacific Languages,6,3,20,2003
+1294,200321,Te Reo Maori (Maori Language),6,3,20,2003
+1295,200322,Comparative Language Studies,6,3,20,2003
+1296,200323,Translation and Interpretation Studies,6,3,20,2003
+1297,200399,Language Studies not elsewhere classified,6,3,20,2003
+1298,200401,Applied Linguistics and Educational Linguistics,6,3,20,2004
+1299,200402,Computational Linguistics,6,3,20,2004
+1300,200403,Discourse and Pragmatics,6,3,20,2004
+1301,200404,Laboratory Phonetics and Speech Science,6,3,20,2004
+1302,200405,Language in Culture and Society (Sociolinguistics),6,3,20,2004
+1303,200406,"Language in Time and Space (incl. Historical Linguistics, Dialectology)",6,3,20,2004
+1304,200407,Lexicography,6,3,20,2004
+1305,200408,"Linguistic Structures (incl. Grammar, Phonology, Lexicon, Semantics)",6,3,20,2004
+1306,200499,Linguistics not elsewhere classified,6,3,20,2004
+1307,200501,Aboriginal and Torres Strait Islander Literature,6,3,20,2005
+1308,200502,Australian Literature (excl. Aboriginal and Torres Strait Islander Literature),6,3,20,2005
+1309,200503,British and Irish Literature,6,3,20,2005
+1310,200504,Maori Literature,6,3,20,2005
+1311,200505,New Zealand Literature (excl. Maori Literature),6,3,20,2005
+1312,200506,North American Literature,6,3,20,2005
+1313,200507,Pacific Literature,6,3,20,2005
+1314,200508,Other Literatures in English,6,3,20,2005
+1315,200509,Central and Eastern European Literature (incl. Russian),6,3,20,2005
+1316,200510,Latin and Classical Greek Literature,6,3,20,2005
+1317,200511,Literature in French,6,3,20,2005
+1318,200512,Literature in German,6,3,20,2005
+1319,200513,Literature in Italian,6,3,20,2005
+1320,200514,Literature in Spanish and Portuguese,6,3,20,2005
+1321,200515,Other European Literature,6,3,20,2005
+1322,200516,Indonesian Literature,6,3,20,2005
+1323,200517,Literature in Chinese,6,3,20,2005
+1324,200518,Literature in Japanese,6,3,20,2005
+1325,200519,South-East Asian Literature (excl. Indonesian),6,3,20,2005
+1326,200520,Indian Literature,6,3,20,2005
+1327,200521,Korean Literature,6,3,20,2005
+1328,200522,Other Asian Literature (excl. South-East Asian),6,3,20,2005
+1329,200523,Middle Eastern Literature,6,3,20,2005
+1330,200524,Comparative Literature Studies,6,3,20,2005
+1331,200525,Literary Theory,6,3,20,2005
+1332,200526,Stylistics and Textual Analysis,6,3,20,2005
+1333,200599,Literary Studies not elsewhere classified,6,3,20,2005
+1334,209999,"Language, Communication and Culture not elsewhere classified",6,3,20,2099
+1335,210101,Aboriginal and Torres Strait Islander Archaeology,6,3,21,2101
+1336,210102,Archaeological Science,6,3,21,2101
+1337,210103,"Archaeology of Asia, Africa and the Americas",6,3,21,2101
+1338,210104,Archaeology of Australia (excl. Aboriginal and Torres Strait Islander),6,3,21,2101
+1339,210105,"Archaeology of Europe, the Mediterranean and the Levant",6,3,21,2101
+1340,210106,Archaeology of New Guinea and Pacific Islands (excl. New Zealand),6,3,21,2101
+1341,210107,Archaeology of New Zealand (excl. Maori),6,3,21,2101
+1342,210108,Historical Archaeology (incl. Industrial Archaeology),6,3,21,2101
+1343,210109,Maori Archaeology,6,3,21,2101
+1344,210110,Maritime Archaeology,6,3,21,2101
+1345,210199,Archaeology not elsewhere classified,6,3,21,2101
+1346,210201,"Archival, Repository and Related Studies",6,3,21,2102
+1347,210202,Heritage and Cultural Conservation,6,3,21,2102
+1348,210203,Materials Conservation,6,3,21,2102
+1349,210204,Museum Studies,6,3,21,2102
+1350,210299,Curatorial and Related Studies not elsewhere classified,6,3,21,2102
+1351,210301,Aboriginal and Torres Strait Islander History,6,3,21,2103
+1352,210302,Asian History,6,3,21,2103
+1353,210303,Australian History (excl. Aboriginal and Torres Strait Islander History),6,3,21,2103
+1354,210304,Biography,6,3,21,2103
+1355,210305,British History,6,3,21,2103
+1356,210306,Classical Greek and Roman History,6,3,21,2103
+1357,210307,"European History (excl. British, Classical Greek and Roman)",6,3,21,2103
+1358,210308,Latin American History,6,3,21,2103
+1359,210309,Maori History,6,3,21,2103
+1360,210310,Middle Eastern and African History,6,3,21,2103
+1361,210311,New Zealand History,6,3,21,2103
+1362,210312,North American History,6,3,21,2103
+1363,210313,Pacific History (excl. New Zealand and Maori),6,3,21,2103
+1364,210399,Historical Studies not elsewhere classified,6,3,21,2103
+1365,219999,History and Archaeology not elsewhere classified,6,3,21,2199
+1366,220101,Bioethics (human and animal),6,3,22,2201
+1367,220102,Business Ethics,6,3,22,2201
+1368,220103,"Ethical Use of New Technology (e.g. Nanotechnology, Biotechnology)",6,3,22,2201
+1369,220104,Human Rights and Justice Issues,6,3,22,2201
+1370,220105,Legal Ethics,6,3,22,2201
+1371,220106,Medical Ethics,6,3,22,2201
+1372,220107,Professional Ethics (incl. police and research ethics),6,3,22,2201
+1373,220199,Applied Ethics not elsewhere classified,6,3,22,2201
+1374,220201,Business and Labour History,6,3,22,2202
+1375,220202,History and Philosophy of Education,6,3,22,2202
+1376,220203,History and Philosophy of Engineering and Technology,6,3,22,2202
+1377,220204,History and Philosophy of Law and Justice,6,3,22,2202
+1378,220205,History and Philosophy of Medicine,6,3,22,2202
+1379,220206,History and Philosophy of Science (incl. Non-historical Philosophy of Science),6,3,22,2202
+1380,220207,History and Philosophy of the Humanities,6,3,22,2202
+1381,220208,History and Philosophy of the Social Sciences,6,3,22,2202
+1382,220209,History of Ideas,6,3,22,2202
+1383,220210,History of Philosophy,6,3,22,2202
+1384,220299,History and Philosophy of Specific Fields not elsewhere classified,6,3,22,2202
+1385,220301,Aesthetics,6,3,22,2203
+1386,220302,Decision Theory,6,3,22,2203
+1387,220303,Environmental Philosophy,6,3,22,2203
+1388,220304,Epistemology,6,3,22,2203
+1389,220305,Ethical Theory,6,3,22,2203
+1390,220306,Feminist Theory,6,3,22,2203
+1391,220307,Hermeneutic and Critical Theory,6,3,22,2203
+1392,220308,Logic,6,3,22,2203
+1393,220309,Metaphysics,6,3,22,2203
+1394,220310,Phenomenology,6,3,22,2203
+1395,220311,Philosophical Psychology (incl. Moral Psychology and Philosophy of Action),6,3,22,2203
+1396,220312,Philosophy of Cognition,6,3,22,2203
+1397,220313,Philosophy of Language,6,3,22,2203
+1398,220314,Philosophy of Mind (excl. Cognition),6,3,22,2203
+1399,220315,Philosophy of Religion,6,3,22,2203
+1400,220316,Philosophy of Specific Cultures (incl. Comparitive Philosophy),6,3,22,2203
+1401,220317,Poststructuralism,6,3,22,2203
+1402,220318,Psychoanalytic Philosophy,6,3,22,2203
+1403,220319,Social Philosophy,6,3,22,2203
+1404,220399,Philosophy not elsewhere classified,6,3,22,2203
+1405,220401,Christian Studies (incl. Biblical Studies and Church History),6,3,22,2204
+1406,220402,Comparative Religious Studies,6,3,22,2204
+1407,220403,Islamic Studies,6,3,22,2204
+1408,220404,Jewish Studies,6,3,22,2204
+1409,220405,Religion and Society,6,3,22,2204
+1410,220406,Studies in Eastern Religious Traditions,6,3,22,2204
+1411,220407,"Studies in Religious Traditions (excl. Eastern, Jewish, Christian and Islamic Traditions)",6,3,22,2204
+1412,220499,Religion and Religious Studies not elsewhere classified,6,3,22,2204
+1413,229999,Philosophy and Religious Studies not elsewhere classified,6,3,22,2299
