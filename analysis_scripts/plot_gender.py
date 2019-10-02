@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from matplotlib.patches import Patch
+
 from loguru import logger
 from GEN_Utils import FileHandling
 from GEN_Utils.HDF5_Utils import hdf_to_dict
