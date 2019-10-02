@@ -66,7 +66,7 @@ plt.xticks(np.arange(0, 5, 1), labels=list(year_dict.keys()))
 plt.title(f'Pre-nominal of successful applicants', loc='left', fontdict={
           'fontsize': 15, 'fontweight': 'bold'}, pad=30)
 plt.tight_layout()
-plt.savefig(f'{output_folder}title_proportion_level{int(level)}.png', dpi=300)
+plt.savefig(f'{output_folder}title_proportion_level.png', dpi=300)
 plt.show()
 
 # Generate plot 2
