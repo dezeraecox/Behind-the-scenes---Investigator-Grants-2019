@@ -41,6 +41,9 @@ for_plotting[numeric_cols] = for_plotting[numeric_cols].astype(float)
 year_dict = {2015: 0, 2016: 1, 2017: 2, 2018: 3, 2019: 4}
 for_plotting['Year_num'] = for_plotting['Year'].map(year_dict)
 
+hue_order = {'Basic Science':1, 'Clinical Medicine and Science':2, 'Public Health':3, 'Health Services Research':4}
+
+for_plotting['hue_order'] = for_plotting['Broad Research Area'].map(hue_order)
 
 for_plotting.groupby(['Year']).sum() # Check 100% accounted for each year
 
@@ -51,18 +54,19 @@ sns.palplot(col_pal)
 col_pal = ['#4b6aab', '#b75b9e', '#d8774c', '#f1c75b']
 col_pal = ['#286bf7', '#b00e84', '#d64809', '#edab00']
 
-order = ['Basic Science', 'Clinical Medicine and Science', 'Health Services Research', 'Public Health']
 
 fig, ax = plt.subplots(figsize=(10, 5))
 sns.barplot(x='Year_num',  y='proportion', data=for_plotting,
-            hue='Broad Research Area', ax=ax, palette=col_pal, hue_order=order)
+            hue='hue_order', ax=ax, palette=col_pal)
 # Fix all the adjusted elements
-plt.legend(loc='upper right')
+handles, labels = ax.get_legend_handles_labels()
+plt.legend(handles=handles, loc='upper right', labels=list(hue_order.keys()))
 ax.set_xlabel('Year of funding')
 ax.set_ylabel('Proportion of grants awarded to area (%)')
 plt.xticks(np.arange(0, 5, 1), labels=list(year_dict.keys()))
 plt.title('Grants awarded to Broad Research Areas', loc='left',
           fontdict={'fontsize': 15, 'fontweight': 'bold'}, pad=10)
+plt.ylim(0, 55)
 plt.tight_layout()
 plt.savefig(f'{image_output}broad_research_area.png', dpi=300)
 plt.show()
