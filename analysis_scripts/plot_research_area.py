@@ -41,10 +41,6 @@ for_plotting[numeric_cols] = for_plotting[numeric_cols].astype(float)
 year_dict = {2015: 0, 2016: 1, 2017: 2, 2018: 3, 2019: 4}
 for_plotting['Year_num'] = for_plotting['Year'].map(year_dict)
 
-# add an extra row for the non-existent health services research in 2015
-for_plotting = for_plotting.T
-for_plotting[19] = [2015.0,	'Health Services Research',	0.0,	0.0,	0.0,	0]
-for_plotting = for_plotting.T
 
 for_plotting.groupby(['Year']).sum() # Check 100% accounted for each year
 
@@ -55,9 +51,11 @@ sns.palplot(col_pal)
 col_pal = ['#4b6aab', '#b75b9e', '#d8774c', '#f1c75b']
 col_pal = ['#286bf7', '#b00e84', '#d64809', '#edab00']
 
+order = ['Basic Science', 'Clinical Medicine and Science', 'Health Services Research', 'Public Health']
+
 fig, ax = plt.subplots(figsize=(10, 5))
 sns.barplot(x='Year_num',  y='proportion', data=for_plotting,
-            hue='Broad Research Area', ax=ax, palette=col_pal)
+            hue='Broad Research Area', ax=ax, palette=col_pal, hue_order=order)
 # Fix all the adjusted elements
 plt.legend(loc='upper right')
 ax.set_xlabel('Year of funding')
