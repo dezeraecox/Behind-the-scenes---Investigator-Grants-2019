@@ -16,6 +16,6 @@ The last source of data was [Scival](https://www.scival.com/home), which I used 
 
 ## Disclaimer
 
-This analysis was intended to inform my _personal_ decision of whether to apply for an I Grant in the 2019 round. It is not intended as a complete, in-depth assessment of the outcomes. Therefore, the information contained here and in the original post is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness. Any action you take as a result of this information is done so at your own peril. If you do decide to act on this information, I wish you the best of luck whichever path you may choose. May the odds be ever in your favour.
+This analysis was intended to inform my _personal_ decision of whether to apply for an Investigator Grant in the 2019 round. It is not intended as a complete, in-depth assessment of the outcomes. Therefore, the information contained here and in the original post is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness. Any action you take as a result of this information is done so at your own peril. If you do decide to act on this information, I wish you the best of luck whichever path you may choose. May the odds be ever in your favour.
 
 This being said, I have of course aimed to be as unbiased and informative as possible. This is also my first foray into data-science-for-public-consumption, so if you do notice any overt errors or bugs feel free to raise an issue and I will check it out as soon as possible.
