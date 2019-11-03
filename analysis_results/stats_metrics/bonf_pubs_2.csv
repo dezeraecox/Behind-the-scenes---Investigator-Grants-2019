@@ -1,0 +1,11 @@
+Contrast,A,B,Paired,Parametric,T,dof,tail,p-unc,p-corr,p-adjust,BF10,CLES,none
+Group,2015_2,2016_2,False,True,-0.3730,86.9000,two-sided,0.7099,1.0000,bonf,0.225,0.5520,-0.0760
+Group,2015_2,2017_2,False,True,0.6000,78.0000,two-sided,0.5502,1.0000,bonf,0.248,0.5010,0.1230
+Group,2015_2,2018_2,False,True,0.9120,65.2700,two-sided,0.3650,1.0000,bonf,0.314,0.5030,0.1880
+Group,2015_2,2019_2,False,True,-0.3910,75.7300,two-sided,0.6967,1.0000,bonf,0.248,0.5320,-0.0870
+Group,2016_2,2017_2,False,True,1.2140,104.0000,two-sided,0.2275,1.0000,bonf,0.396,0.5550,0.2360
+Group,2016_2,2018_2,False,True,1.6830,86.3100,two-sided,0.0959,0.9592,bonf,0.74,0.5680,0.3280
+Group,2016_2,2019_2,False,True,-0.0870,63.6100,two-sided,0.9308,1.0000,bonf,0.228,0.5130,-0.0200
+Group,2017_2,2018_2,False,True,0.3880,93.2700,two-sided,0.6991,1.0000,bonf,0.227,0.5040,0.0760
+Group,2017_2,2019_2,False,True,-1.0250,55.8200,two-sided,0.3096,1.0000,bonf,0.359,0.5320,-0.2400
+Group,2018_2,2019_2,False,True,-1.3380,46.6000,two-sided,0.1874,1.0000,bonf,0.505,0.5340,-0.3260
