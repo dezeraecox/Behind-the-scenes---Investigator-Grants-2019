@@ -1,4 +1,3 @@
-from wordcloud import WordCloud, STOPWORDS
 import os
 import re
 import pandas as pd
@@ -46,7 +45,7 @@ year_dict = {2015: 0, 2016: 1, 2017: 2, 2018: 3, 2019: 4}
 for_plotting['Year_num'] = for_plotting['Year'].map(year_dict)
 
 
-# col_pal = [sns.color_palette('Blues')[x] for x in [2, 3, 5]]
+col_pal = [sns.color_palette('Blues')[x] for x in [2, 3, 5]]
 # colors = {1.0: ['#89bedc'], 2.0: ['#539ecd'], 3.0: ['#0b559f']}
 colors = {1.0: ['#0b559f'], 2.0: ['#0b559f'], 3.0: ['#0b559f']}
 labels = ['ECF/EL1', 'CDF/EL2', 'RF/L']
@@ -62,7 +61,6 @@ fig, ax = plt.subplots(figsize=(12, 12))
 pt.RainCloud(x='Year', y='pubs_awarded', hue='type_cat', data=for_plotting, palette=col_pal, width_viol=.6, ax=ax, orient='h', move=.25, alpha=0.5, dodge=True)
 plt.xlabel('Number of publications in ten years prior to award.')
 plt.ylabel('Year of award.')
-plt.title(f'Level {level}')
 
 # Test raincloud plots for each level
 for level, df in for_plotting.groupby('type_cat'):
